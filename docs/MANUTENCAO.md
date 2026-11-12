@@ -119,10 +119,11 @@ O script abre a página oficial do arquivo certo, espera o download, confere o h
 
 A casa da versão (MAJOR, MINOR ou PATCH) e o uso das branches seguem a [política de versionamento](VERSIONAMENTO.md).
 
-1. **Durante o ciclo:** nas versões MINOR e PATCH, cada mudança vai para o `main`, e quem já instalou recebe na próxima abertura. **MAJOR nunca é feito direto no `main`:** fica numa `release/X.0.0` até passar nos testes. Anote tudo no `PENDENTES.txt`.
+1. **Durante o ciclo:** cada mudança sai de uma branch criada a partir do `develop` (`feat/...`, `fix/...`, `docs/...` ou `chore/...`) e entra no `develop` por PR. Nunca faça commit direto no `develop` nem no `main`. As mensagens de commit e os títulos de PR seguem o **Conventional Commits**, em português (`feat: adiciona o InventoryHUD+`). **MAJOR** fica numa `release/X.0.0` até passar nos testes. Anote tudo no `PENDENTES.txt`.
 2. **Ao fechar a versão:**
-   - escreva a seção da versão no `CHANGELOG.md` a partir do `PENDENTES.txt`, organizada por assunto;
+   - escreva a seção da versão no `CHANGELOG.md` a partir do `PENDENTES.txt`, organizada por assunto, numa branch com PR para o `develop`;
    - confira o `version` do `pack.toml`;
+   - abra um PR do `develop` para o `main` e faça o merge. Quem já instalou recebe a versão na próxima abertura do jogo;
    - gere a instância de importação:
      ```bash
      scripts/build-instance-zip.sh
@@ -134,7 +135,7 @@ A casa da versão (MAJOR, MINOR ou PATCH) e o uso das branches seguem a [políti
      git push origin vX.Y.Z
      gh release create vX.Y.Z --title "Iron Meridian X.Y.Z" --notes-file notas.md dist/IronMeridian-Prism.zip
      ```
-3. **Abra o próximo ciclo:** suba o `version` do `pack.toml`, rode `packwiz refresh`, zere o `PENDENTES.txt` e faça o commit.
+3. **Abra o próximo ciclo:** suba o `version` do `pack.toml`, rode `packwiz refresh`, zere o `PENDENTES.txt` e faça o commit numa branch `chore/...` com PR para o `develop`.
 
 O link `releases/latest/download/IronMeridian-Prism.zip` sempre aponta para a release mais nova. Depois de um `git push`, o GitHub pode levar alguns minutos para servir os arquivos novos, por causa do cache do `raw.githubusercontent.com`.
 
