@@ -81,6 +81,7 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 | 49 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
 | 50 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
 | 51 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
+| 52 | **Shift + I** | Ligar/desligar a HUD do inventário | InventoryHUD+ |
 
 ### Sem tecla, de propósito
 
@@ -93,6 +94,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Configurações do SCC: a tela abre pelo botão "SCC settings" na barra do terminal do SCC, ou com F7 dentro dele.
 - Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
 - Preenchimento sequencial do Omni Upgrades: vinha no **Shift + N**, que é o Show Description do Mekanism.
+- Configuração do InventoryHUD+: vinha no **O**, que abre a tela de shaders do Iris. A tela também abre pelo botão de configuração na lista de mods.
 - Ajuste fino de animações do Punchy! (eixos, alvos, aumentar/diminuir, salvar): é ferramenta de quem cria animações e vinha no **R**, no **F6**, no **F7**, nas setas e no teclado numérico.
 
 ### Teclas livres
@@ -338,6 +340,14 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | ` | Sort External Inventory | Tela |
 | Botão do meio do mouse | Sort Inventory Under Cursor | Tela |
 | \\ | Sort Player Inventory | Tela |
+
+### InventoryHUD+
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| Shift + I | Toggle InventoryHUD on/off | Jogo |
+
+O padrão era **I**, que é o inspecionar do Punchy!. A configuração (padrão **O**, o mesmo do Iris), ligar/desligar todas as HUDs, só a de poções e só a de armadura ficam sem tecla.
 
 ### Iris Shaders
 
