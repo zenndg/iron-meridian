@@ -29,9 +29,22 @@ Ao sugerir mods:
 - **Anote no `PENDENTES.txt`.** Toda mudança é registrada nesse arquivo na raiz, que é local e fica fora do git e do pack.
 - **Versão:** toda mudança define a casa da versão pelo `docs/VERSIONAMENTO.md`. Uma versão com mudanças de vários tipos fica com a casa mais alta.
 - **Release só quando pedirem.** Nunca crie tag ou release por conta própria. O processo está na seção 9 de `docs/MANUTENCAO.md`.
-- **Commit e push só quando pedirem.** MINOR e PATCH vão para o `main`, e quem já instalou recebe na próxima abertura. **MAJOR nunca entra direto no `main`:** fica numa `release/X.0.0` até passar nos testes. A linha 1 está congelada na branch `v1` (1.1.20).
+- **Commit, push, PR, merge, tag e release só quando pedirem**, cada um com autorização própria. As regras de branch e de mensagem estão em *Git* abaixo.
 - **Listas numeradas:** numere sempre as listas de mods, porque o usuário escolhe pelo número.
 - **Uma instância por vez:** ao pedir "nova instância", crie uma só. Mantenha uma instância aberta por vez.
+
+## Git: gitflow, Semantic Versioning e Conventional Commits
+
+- **Gitflow.** Nunca faça commit direto no `develop` nem no `main`.
+  1. Crie a branch a partir do `develop`: `feat/...`, `fix/...`, `docs/...` ou `chore/...`.
+  2. Abra um PR da branch para o `develop`.
+  3. Para fechar a versão, abra um PR do `develop` para o `main`. Quem já instalou recebe o que entra no `main` na próxima abertura do jogo.
+  4. Depois do merge no `main`, crie a tag `vX.Y.Z` e a release (seção 9 de `docs/MANUTENCAO.md`).
+  - **MAJOR** usa uma `release/X.0.0`, que só vai para o `main` depois de passar nos testes.
+  - A linha 1 está congelada na branch `v1` (1.1.20).
+- **Semantic Versioning.** A casa da versão segue o `docs/VERSIONAMENTO.md` (MAJOR quebra mundos, MINOR adiciona, PATCH mantém).
+- **Conventional Commits**, em português: `feat: adiciona o InventoryHUD+`, `fix: corrige a receita do ...`, `chore: abre o ciclo 2.2.1`, `docs: ...`. Os títulos de PR seguem o mesmo formato.
+- Use o remote `git@github.com-zenndg:zenndg/iron-meridian.git` e, no `gh`, `GH_TOKEN=$(gh auth token --user zenndg)`.
 
 ## Comandos
 
@@ -100,9 +113,9 @@ O procedimento completo está na seção 6 de `docs/MANUTENCAO.md`.
 
 | O quê | Onde |
 |---|---|
-| Repositório | `~/Workspace/projects/iron-meridian` |
+| Repositório | `~/Workspace/zenndg/iron-meridian` |
 | Instância de jogo do usuário (1.x) | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-Prism/`, travada na tag `v1.1.20`. Mundo `saves/2026-10-21`, player "Zennd". |
-| Instância da 2.0 | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-2.0/`, seguindo o `main`. Mundo `saves/20261003-IM2`. |
+| Instância da 2.x | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian2/`, seguindo o `main`. Mundo `saves/20261109`, player "Zennd". |
 | Java para o javap | `~/.local/share/PrismLauncher/java/java-runtime-delta/bin/` |
 | Leitor de NBT (save, região, `level.dat`) | `~/.cache/iron-meridian/nbt.py`, com as funções `load`, `World`, `find` e `todict` |
 
