@@ -43,6 +43,8 @@ key_key.scc.job_details:key.keyboard.k:ALT
 key_key.easy_villagers.pick_up:key.keyboard.v:SHIFT
 key_key.toolbelt.slot:key.keyboard.r:SHIFT
 key_key.logisticsnetworks.toggle_wrench_hud:key.keyboard.h:SHIFT
+key_key.logisticsnetworks.toggle_worn_wrench:key.keyboard.unknown
+key_key.enderio_conduit_opt.toggle_auto_insert:key.keyboard.unknown
 key_key.commandkeys.main.edit:key.keyboard.k:SHIFT
 key_key.scc.hole:key.keyboard.delete:ALT
 key_key.mekanism.key_hud:key.keyboard.f8
@@ -84,3 +86,5 @@ key_key.punchy.tuning.toggle_pivot:key.keyboard.unknown
 key_key.punchy.open_main_menu:key.keyboard.f8:SHIFT
 key_key.omni_upgrades.toggle_enabled:key.keyboard.o:SHIFT
 key_key.omni_upgrades.toggle_sequential_fill:key.keyboard.unknown
+key_key.inventoryhud.toggle:key.keyboard.i:SHIFT
+key_key.inventoryhud.openconfig:key.keyboard.unknown

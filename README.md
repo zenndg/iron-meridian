@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **369 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **372 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 369 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 372 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -56,7 +56,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 ### Tecnologia e energia
 - **Mekanism**: Generators, Tools, MoreMachine, Lasers, Mekanistic Routers, **Turrets** (torretas laser e cercas elétricas)
 - **Modern Industrialization**: Extended Industrialization, Industrialization Overdrive, Tesseract API
-- **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech** (com Oritech Things), **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
+- **Ender IO** (com Modded Conduits e o addon Evolution), **Industrial Foregoing** (Souls e MIFA), **Oritech** (com Oritech Things), **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
 - **Extreme Reactors**, **Draconic Evolution**, **Solar Flux Reborn**, **Generator Galore**, **Iron Generators**, **Flux Networks**, **Dyson Cube Project**
 - **Extended Crafting**, **Hostile Neural Networks**, **Replication** (replicação de matéria), **Scannable Reforged** (scanner de minérios), **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus** (Additional Enchanted Miner)
 
