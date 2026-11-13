@@ -721,6 +721,10 @@ file = "config/enderio/modded-conduits-common.toml"
 hash = "16b611c3293a17dbecf634a37776507fd102c200c3075b360534ab373d4713b7"
 
 [[files]]
+file = "config/enderio_evolution/worldgen.toml"
+hash = "c0e849277542bc9ceb6fb33362e2cbbfc368feb45afbebc1c91e92fe451c0fa7"
+
+[[files]]
 file = "config/energymeter-common.toml"
 hash = "c5c03e3547184c56c714d9508174897c51c04550b62184396a6d01b98dd7f89f"
 
@@ -2313,7 +2317,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "b15e1ffe456a941add52153ff9c4685c721f52afd949c0bd2820e78ec13cede1"
+hash = "fee4725ede78489aa43904e1c344f8563eac23f85efade80646d384620d8c720"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -3008,6 +3012,11 @@ hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
 metafile = true
 
 [[files]]
+file = "mods/ender-io-conduit-optimizer.pw.toml"
+hash = "d33a13fd209a45375b9a96104b8dcbdc24e6f1386f02a0cb5f3521a48d90ffa4"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage.pw.toml"
 hash = "302bd3b2339329f655f6bd46c3fe198a3bdd2eff755f9b64b2c1ebc10d3399c0"
 metafile = true
@@ -3020,6 +3029,11 @@ metafile = true
 [[files]]
 file = "mods/enderio.pw.toml"
 hash = "a2203d8a57fd401be6451586452dd1b8c25ecc52822613b807eb27f684e8e2be"
+metafile = true
+
+[[files]]
+file = "mods/enderio_evolution.pw.toml"
+hash = "55621049f3f73ed8ac77d85ff0af54c320f48f8cff169b5a3f28ce2f6717baa9"
 metafile = true
 
 [[files]]

@@ -97,6 +97,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Configuração do InventoryHUD+: vinha no **O**, que abre a tela de shaders do Iris. A tela também abre pelo botão de configuração na lista de mods.
 - Ajuste fino de animações do Punchy! (eixos, alvos, aumentar/diminuir, salvar): é ferramenta de quem cria animações e vinha no **R**, no **F6**, no **F7**, nas setas e no teclado numérico.
 - Chave vestida do Logistics Networks (Toggle Worn Wrench): vinha no **K**, que abre o Keybind Atlas.
+- Inserção automática ao colocar conduítes do Ender IO: Conduit Optimizer (Toggle Auto-Insert Mode): vinha no **Shift + C**, que é a grade de crafting do Translocators.
 
 ### Teclas livres
 
@@ -253,6 +254,12 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 |---|---|---|
 | G | Staff of Travelling | Jogo |
 | Shift + M | Toggle Electromagnet | Jogo |
+
+### Ender IO: Conduit Optimizer
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| — | Toggle Auto-Insert Mode | Jogo |
 
 ### Equipment Compare
 

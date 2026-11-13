@@ -56,6 +56,7 @@ Para quem quer **tudo em um terminal** e autocrafting.
 3. **AE2** com addons: **ExtendedAE**, **Advanced AE**, **MEGA Cells**, **AE2WTLib** (terminal sem fio) e **ME Requester**, que mantém estoque automático. O **Recursive AE2 Pattern Provider** gera sozinho os padrões intermediários de receitas longas, e o **Growth Accelerator Tiers** acelera os cristais de certus.
 4. **Autocrafting do SCC:** a calculadora (**F4**, com o cursor sobre o item) monta a árvore da receita; o **Calculation Crafter** faz receitas de mesa e a **Interface** liga as suas máquinas.
 5. **Transporte avançado:** **XNet**, **Super Factory Manager** (programável), **Logistics Networks** e **Translocators**.
+   - **Ender IO: Evolution:** conduítes de item, fluido e químico de capacidade enorme (Melodic e Stellar Alloy), capacitores e grinding balls de tier alto, e SAG Mill, Alloy Smelter e Vat que processam até 10 itens de uma vez. Ele não gera prata própria: use a do Mekanism.
 6. **Compact Machines:** coloque fábricas inteiras dentro de um bloco.
 
 ### ⚡ Rota D: Energia

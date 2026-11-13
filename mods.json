@@ -3042,6 +3042,34 @@
       "pw_file": "mods/enchantment-descriptions.pw.toml"
     },
     {
+      "name": "Ender IO: Conduit Optimizer",
+      "source": "modrinth",
+      "project_id": "SgW9mQeM",
+      "version_id": "r86xhg9h",
+      "filename": "enderio_conduit_opt-1.1.7-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "609d50cf138df5b31f018b2ca40fdbdea2fa829f6c9c253decc45e5ceec78ab322f066a543444ba291f57b0212badb276f4afa79c5c28bbb251ce1693f0ddc1d"
+      },
+      "mod_ids": {
+        "enderio_conduit_opt": "1.1.7-1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.215,)"
+        },
+        {
+          "mod_id": "enderio",
+          "type": "required",
+          "range": "[8.2.11-beta,)"
+        }
+      ],
+      "pw_file": "mods/ender-io-conduit-optimizer.pw.toml"
+    },
+    {
       "name": "Ender Storage",
       "source": "modrinth",
       "project_id": "BbrHg80P",
@@ -3196,6 +3224,64 @@
         }
       ],
       "pw_file": "mods/enderio.pw.toml"
+    },
+    {
+      "name": "Ender IO: Evolution",
+      "source": "modrinth",
+      "project_id": "hNO5fwqf",
+      "version_id": "FJ4ERZVi",
+      "filename": "enderio_evolution-3.1.6-NeoForge-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "1199539edc39382b941ce9e6b13ed3da4e010700e64c902ee3d9be3960f28c81660da21d71543828eda68f89999e28f56a41423135946a1f0a03755c90894959"
+      },
+      "mod_ids": {
+        "enderio_evolution": "3.1.6-NeoForge-1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.215,)"
+        },
+        {
+          "mod_id": "enderio",
+          "type": "required",
+          "range": "[8.2.7-beta,)"
+        },
+        {
+          "mod_id": "enderio_conduit_opt",
+          "type": "required",
+          "range": "[1.1.7-1.21.1,]"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "mekanism",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "industrialforegoing",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "allthemodium",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "eio_pressure_conduits",
+          "type": "optional",
+          "range": "*"
+        }
+      ],
+      "pw_file": "mods/enderio_evolution.pw.toml"
     },
     {
       "name": "Energy Meter",
