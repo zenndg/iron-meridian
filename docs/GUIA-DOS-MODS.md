@@ -1054,7 +1054,7 @@ Resumo em 3 linhas de cada um dos **372 mods** do pack, separados por categoria.
 248. **InventoryHUD+** · [página](https://modrinth.com/mod/inventoryhudplus)
    - Mostra na tela, durante o jogo, o inventário, a armadura com a durabilidade e as poções ativas.
    - Posição, tamanho e o que aparece se ajustam na tela de configuração (lista de mods).
-   - **Alt+I** liga e desliga a HUD; mod só do cliente.
+   - **Shift + I** liga e desliga a HUD; mod só do cliente.
 249. **Iris & Oculus Search** · [página](https://modrinth.com/mod/irissearch)
    - Adiciona barra de busca às telas do Iris.
    - Filtra rapidamente opções de shaders e pacotes de shader instalados.

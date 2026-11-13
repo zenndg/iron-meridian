@@ -1,5 +1,25 @@
 # Changelog
 
+## 2.2.0 — 12/11/2026
+
+### Mods novos
+- **Ender IO: Evolution 3.1.6**: addon não oficial do Ender IO que traz de volta o conteúdo do Endergy, com ligas de Crude Steel a Stellar Alloy, capacitores e grinding balls de tier alto, conduítes de item, fluido e químico de capacidade enorme e versões paralelas do SAG Mill, da Alloy Smelter e do Vat. O minério de prata dele fica desligado, porque o Mekanism More Machine já gera prata. Os lingotes dos dois mods são unificados pelo Almost Unified.
+- **Ender IO: Conduit Optimizer 1.1.7**: exigido pelo Evolution. Melhora o desempenho dos conduítes do Ender IO e tira o limite de 64 itens por extração.
+- **InventoryHUD+ 3.4.28** (só cliente): mostra na tela o inventário, a armadura com a durabilidade e as poções ativas.
+
+### Atualizações
+- **28 mods** para a versão estável mais nova: Additional Enchanted Miner 21.1.170, Applied Energistics 2 19.2.19, AEInfinityBooster 2.1.2, AllTheLeaks 1.1.16, Applied Oritech 1.0.7, CreativeCore 2.13.54, ChoiceTheorem's Overhauled Village 3.6.4, Cultural Delights 0.19.8, Ecologics 2.3.10_1, Entity Culling 1.12.0, Explorify 1.6.6, FancyMenu 3.10.0, FTB Teams 2101.1.12, Industrialization Overdrive 1.15.1, Integrated Dynamics 1.39.0, Integrated Tunnels 1.13.1, Inventory Tweaks - ReFoxed 1.4.0, JEI Stuff 1.4.0, Keybind Atlas 3.0.0, KotlinLangForge 2.19.0, Logistics Network 1.18.0, Moonlight Lib 3.8.3, Oracle Index 1.4.1, Sophisticated Backpacks 3.26.21.2249, Sophisticated Core 1.5.35.2473, Sophisticated Storage 1.6.18.2229, SuperMartijn642's Core Lib 1.1.26a e Universal Grid 0.3.3.
+- **7 mods** que só têm versão beta: Titanium 4.0.52, Draconic Evolution 3.1.4.633, Ender IO 8.2.13-beta, McJtyLib 9.0.22, RFTools Utility 7.0.13, RFTools Builder 7.0.8 e CC: Tweaked 1.121.0.
+
+### Teclas
+- **Shift + I** liga e desliga a HUD do InventoryHUD+. O padrão era I, que é o inspecionar do Punchy!. A configuração do InventoryHUD+ (que vinha no O, a tecla do Iris) fica sem tecla.
+- Ficam sem tecla, de propósito:
+  - o Toggle Worn Wrench do Logistics Network, que vinha no K, a tecla que abre o Keybind Atlas;
+  - o Toggle Auto-Insert Mode do Conduit Optimizer, que vinha no Shift + C, a grade de crafting do Translocators;
+  - as 2 ações de controle novas do Keybind Atlas 3.0.
+
+O pack agora tem **372 mods**.
+
 ## 2.1.0 — 03/11/2026
 
 ### Mundo
