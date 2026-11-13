@@ -203,15 +203,15 @@
       "name": "Additional Enchanted Miner",
       "source": "modrinth",
       "project_id": "jhxX1zVW",
-      "version_id": "zmHh2LIQ",
-      "filename": "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.165.jar",
+      "version_id": "vlvu5FZm",
+      "filename": "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.170.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "edbb6d34b5484f1a3d41cb11b0a67dfda7449ccbccba4b75ef18abc7e89236792c35cc7b2cbd570fc08b45d0424525fa53f43794ed9309e1e8e7537ec2db7c5c"
+        "value": "05b4cc6024b7ca34166d8fe0ad3847f65f5200c6c5c255714f80fa3923e5470dcd5f372595ab420d616aa8423f62e2b446d9f6664493648dca6b71545d492159"
       },
       "mod_ids": {
-        "quarryplus": "21.1.165"
+        "quarryplus": "21.1.170"
       },
       "dependencies": [
         {
@@ -434,15 +434,15 @@
       "name": "Applied Energistics 2",
       "source": "modrinth",
       "project_id": "XxWD5pD3",
-      "version_id": "KDnFUmMm",
-      "filename": "appliedenergistics2-19.2.18.jar",
+      "version_id": "DxZ2waV0",
+      "filename": "appliedenergistics2-19.2.19.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "39bc4cf733a4321631e2637a1a6dfd3527135fdac1b572534e6fd1f9eab7a6dd92d56c5fa066263c95149c9b20cabdd1fd3dff80bea515381b1d2d754cad26c3"
+        "value": "36385eb9c41e1b1eb4632cac297f9b5560f9d56c061622e99ea2e1fb74f6ff3b9ad09d9e332547d30a3c7559fd4444ee9536a6e1ae12af57c8a8826932a09b29"
       },
       "mod_ids": {
-        "ae2": "19.2.18"
+        "ae2": "19.2.19"
       },
       "dependencies": [
         {
@@ -482,15 +482,15 @@
       "name": "AEInfinityBooster",
       "source": "modrinth",
       "project_id": "VQhDBNs8",
-      "version_id": "UsJrmtWe",
-      "filename": "aeinfinitybooster-neoforge-2.1.0+mc1.21.1.jar",
+      "version_id": "o6wxxkpj",
+      "filename": "aeinfinitybooster-neoforge-2.1.2+mc1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "ae9911f6c3df41ed6101a3720e887c315afdaa6bb8ec93afd32863fe6da220df156184e68645ca8a9fc43d015788d61fcf653c6b013ae891f28b0b8ada77241a"
+        "value": "dcf516259f66ef322a8bd55aa448fe5e02d0cde466b72440a38bd15dc00f25de628f4550f0d445fe4d376ab24cbbbaf25b1a301e5c5bc21918eaf05885cf0d79"
       },
       "mod_ids": {
-        "aeinfinitybooster": "2.1.0"
+        "aeinfinitybooster": "2.1.2"
       },
       "dependencies": [
         {
@@ -579,15 +579,15 @@
       "name": "AllTheLeaks (Memory Leak Fix)",
       "source": "curseforge",
       "project_id": "1091339",
-      "version_id": "9360134",
-      "filename": "alltheleaks-1.1.14-1.21.1-neoforge.jar",
+      "version_id": "9498307",
+      "filename": "alltheleaks-1.1.16-1.21.1-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "9466eee51e9af6d3dd65d1dc164cd8ea98df1fcc"
+        "value": "216772b6278e0d99208517a9207721318903f1e5"
       },
       "mod_ids": {
-        "alltheleaks": "1.1.14+1.21.1-neoforge"
+        "alltheleaks": "1.1.16+1.21.1-neoforge"
       },
       "dependencies": [
         {
@@ -961,15 +961,15 @@
       "name": "Applied Oritech",
       "source": "curseforge",
       "project_id": "1686167",
-      "version_id": "9404074",
-      "filename": "applied_oritech-1.0.6-1.21.1.jar",
+      "version_id": "9556275",
+      "filename": "applied_oritech-1.0.7-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "772a3c8d6fc2085df1e8ea0395e57c1b66d82b42"
+        "value": "ada96a0f0e1cf290cb86ec93aceac15665348152"
       },
       "mod_ids": {
-        "applied_oritech": "1.0.6+1.21.1"
+        "applied_oritech": "1.0.7+1.21.1"
       },
       "dependencies": [
         {
@@ -1647,21 +1647,21 @@
       "name": "CC: Tweaked",
       "source": "modrinth",
       "project_id": "gu7yAYhd",
-      "version_id": "1ewzHZYg",
-      "filename": "cc-tweaked-1.21.1-forge-1.120.2.jar",
+      "version_id": "KNdTEfUA",
+      "filename": "cc-tweaked-1.21.1-forge-1.121.0.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "009fcf48b7d123018a61b2c55f0fede7dd1f6a6325226bf9cc926342185ca8a7e059e13662816d24595aac243abf622b682583631cfe42c3757505b2e864ff73"
+        "value": "042f9c2de7f73f83dbe848c79ddab6383ecef5e6c4a9b51f50fdcae70caa4759d4a2cf5d14e8a3ba4d94ce4a79340c4d2fe0c8b33c33a268e21b164021d25ae3"
       },
       "mod_ids": {
-        "computercraft": "1.120.2"
+        "computercraft": "1.121.0"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.9,21.2)"
+          "range": "[21.1.265,21.2)"
         }
       ],
       "pw_file": "mods/cc-tweaked.pw.toml"
@@ -2352,15 +2352,15 @@
       "name": "CreativeCore",
       "source": "modrinth",
       "project_id": "OsZiaDHq",
-      "version_id": "JS0K93bG",
-      "filename": "CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
+      "version_id": "v8QrwctR",
+      "filename": "CreativeCore_NEOFORGE_v2.13.54_mc1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "4c4e6ba154875ad5b944a7ccbf9a0b298c43382c35f00bbde61876d4d03115b43678a463b90cc134ebb766615e144217588f4a10fab8eb0a485adbe07b5d102c"
+        "value": "ad96d5e95278f30d4077fc79ce1ebf48b8ae5fcf204a2f79729cc04e0e22d47ee0c4950d514751d7360e6d04d540c60ea41b142ba4a9e2ee1cfd3f7e41e1af70"
       },
       "mod_ids": {
-        "creativecore": "2.13.52"
+        "creativecore": "2.13.54"
       },
       "dependencies": [
         {
@@ -2413,15 +2413,15 @@
       "name": "ChoiceTheorem's Overhauled Village",
       "source": "modrinth",
       "project_id": "fgmhI8kH",
-      "version_id": "ztzRUnQ7",
-      "filename": "[Neoforge]ctov-3.6.3.jar",
+      "version_id": "hJfyJvWt",
+      "filename": "[neoforge]ctov-1.21.1-3.6.4.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "174125e619f935ca016efaf7d6794edc57fae39ca02295ce63618ae2b286535e4da2084fd7f0ff9506c32c0ea35ceb68659bd646f65e6fbadfdb8fda299dc832"
+        "value": "5e8666e25e280d619a1a8c74d35918fcfe9642416bf7c4d546284467d6ba080bd026893e9e4761ce98a1fb8395b2dcfdbdc51412263d069f6db1a3ec76bbfaa8"
       },
       "mod_ids": {
-        "ctov": "3.6.3"
+        "ctov": "3.6.4"
       },
       "dependencies": [
         {
@@ -2487,15 +2487,15 @@
       "name": "Cultural Delights",
       "source": "modrinth",
       "project_id": "YttyNOFA",
-      "version_id": "ATlbGqEg",
-      "filename": "culturaldelights-1.21.1-0.19.7.jar",
+      "version_id": "LYCtSz7r",
+      "filename": "culturaldelights-1.21.1-0.19.8.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "2101132f518630afceed7b6b7d73ccbe955b746bfacbfb2187b9b3cd2d46db6f59c616cf6966592b7e0cab629e5d8e85040c845b264648ede94e28fa4ddc2a3e"
+        "value": "536eef7784cebe6f826cb3fe2542cbf3807ad37ef659bb56d21271fa73b1dd21dfc61cb5f0ce29c4ef9d419f77d8c3b16f031217089a712255ec5aa14f2b8459"
       },
       "mod_ids": {
-        "culturaldelights": "0.19.7"
+        "culturaldelights": "0.19.8"
       },
       "dependencies": [
         {
@@ -2672,15 +2672,15 @@
       "name": "Draconic Evolution",
       "source": "modrinth",
       "project_id": "nBqivi8H",
-      "version_id": "lBMsiWyw",
-      "filename": "Draconic-Evolution-1.21.1-3.1.4.632.jar",
+      "version_id": "84xwXpNh",
+      "filename": "Draconic-Evolution-1.21.1-3.1.4.633.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "b216235d3aea6a95fe821529e09e65f32b32fca6bf7e922b7417dec47c540d5cb5c85e91fff211b143ac6ace1a5e95c665d4d987d7154e040e5b7e513cda6c2e"
+        "value": "9740f5750a916db8927d8051430b49eba9ebc37e5545aef09b83872a561a721e7eb8fed82e6ed2aad15ba016d6f8ea2ce566a5cafacc4a2879239119cdbaff31"
       },
       "mod_ids": {
-        "draconicevolution": "3.1.4.632"
+        "draconicevolution": "3.1.4.633"
       },
       "dependencies": [
         {
@@ -2905,15 +2905,15 @@
       "name": "Ecologics",
       "source": "modrinth",
       "project_id": "NCKpPR0Z",
-      "version_id": "SJySxVHt",
-      "filename": "Ecologics-NeoForge-1.21.1-2.3.9.jar",
+      "version_id": "NFmPPUo2",
+      "filename": "Ecologics-NeoForge-1.21.1-2.3.10_1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "7985e33f4b261ec6693ceebef18223ec95fc88dc84a7f83bdd53b83ddb1675e0802abf3b4208c88a43718b8c40246defb682844c269f87ac1a89f4bc75d4fb87"
+        "value": "0e1624466cb268e58e68896f6398ef80a8881d4cf854d2f450a66d6372d685bd74f22d955656eb2cd7cf4b4a04d5fb6130e844e63a9ced75c99c3111bd960ff6"
       },
       "mod_ids": {
-        "ecologics": "2.3.9"
+        "ecologics": "2.3.10"
       },
       "dependencies": [
         {
@@ -2924,12 +2924,12 @@
         {
           "mod_id": "farmersdelight",
           "type": "optional",
-          "range": "1.21.1"
+          "range": "[1.3.4,)"
         },
         {
           "mod_id": "vanillabackport",
           "type": "optional",
-          "range": "1.21.1"
+          "range": "[1.2.2,)"
         }
       ],
       "pw_file": "mods/ecologics.pw.toml"
@@ -3116,17 +3116,17 @@
       "name": "Ender IO",
       "source": "modrinth",
       "project_id": "49ZofO4f",
-      "version_id": "Tfs8aJPH",
-      "filename": "enderio-8.2.11-beta.jar",
+      "version_id": "KUk8AN5v",
+      "filename": "enderio-8.2.13-beta.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "93ac9f1304d317690ad551ad85ff7dc563cc1b0c3143335116ee2d9199d2d13ce2bcbde1c20a00dafd02f87ce36a94bf07f5097922028f88ff16d34aee5c0de9"
+        "value": "65eda31febb8df44fdba7208e7222f408b416d913c8051f6d64570bb65ce0983caf69f1b2293aaea3b428efc8fc0f7e56bbd39f0dc0ebba917ae630f3260f5d0"
       },
       "mod_ids": {
-        "enderio": "8.2.11-beta",
-        "endercore": "8.2.11-beta",
-        "enderio_modded_conduits": "8.2.11-beta"
+        "enderio": "8.2.13-beta",
+        "endercore": "8.2.13-beta",
+        "enderio_modded_conduits": "8.2.13-beta"
       },
       "dependencies": [
         {
@@ -3137,7 +3137,7 @@
         {
           "mod_id": "endercore",
           "type": "required",
-          "range": "8.2.11-beta"
+          "range": "8.2.13-beta"
         },
         {
           "mod_id": "ftbultimine",
@@ -3172,12 +3172,12 @@
         {
           "mod_id": "endercore",
           "type": "required",
-          "range": "8.2.11-beta"
+          "range": "8.2.13-beta"
         },
         {
           "mod_id": "enderio",
           "type": "required",
-          "range": "8.2.11-beta"
+          "range": "8.2.13-beta"
         },
         {
           "mod_id": "mekanism",
@@ -3267,16 +3267,16 @@
       "name": "Entity Culling",
       "source": "modrinth",
       "project_id": "NNAgCjsB",
-      "version_id": "eieYbWYb",
-      "filename": "entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "version_id": "NQY3eIQQ",
+      "filename": "entityculling-neoforge-1.12.0-mc1.21.1.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "93e83dd690b91d610be29451b34836c9daa7e08bd952f88ffa07c62d8774bbaac2ff0c6768d2cbf1b14f47d0b86f98cef9fd341e0d29bd37207eaf4aa2abea63"
+        "value": "06236a5e0620a7bfa1692c460c9564e8b3342c0fc15c70d73cbf2b9b48cfacb1d0cdab35cd5528e563420c3834d7b73ce19056ad8888c16849044c41b4cd564d"
       },
       "mod_ids": {
-        "entityculling": "1.11.3",
-        "transition": "1.0.26",
+        "entityculling": "1.12.0",
+        "transition": "1.0.28",
         "trender": "1.0.17"
       },
       "dependencies": [
@@ -3497,15 +3497,15 @@
       "name": "Explorify",
       "source": "modrinth",
       "project_id": "HSfsxuTo",
-      "version_id": "CuBdAr31",
-      "filename": "Explorify v1.6.5.mod.jar",
+      "version_id": "oyrAnNG8",
+      "filename": "Explorify v1.6.6.mod.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "9b22adeb1952ec25856e160b93aaa41934fd41e8d1aef985317cb2c9d64aae1012e134e23f52ba39fac3a98b3309b60f0b55b98a4db4de1731960b998117c83e"
+        "value": "d4368c83b493c6fcf9b489cd91b4d1e468d695d099d9df3845a6fcee07ef58dc35074557d0108627b98c9941b1e6a6c0bcdbbcd121e8915514a21b91e9d38530"
       },
       "mod_ids": {
-        "explorify": "1.6.5"
+        "explorify": "1.6.6"
       },
       "dependencies": [],
       "pw_file": "mods/explorify.pw.toml"
@@ -3712,15 +3712,15 @@
       "name": "FancyMenu",
       "source": "modrinth",
       "project_id": "Wq5SjeWM",
-      "version_id": "P9dDosz2",
-      "filename": "fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "version_id": "W8E2q1iT",
+      "filename": "fancymenu_neoforge_3.10.0_MC_1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "57ea23ab4424217770025a9447f3990fa39befdb51ac99d7e6bcde4bf7d926b125ceed824f38e7cf504e389bc0d30edb3a7592b47d4763516c9cb0ef4ab2a9c3"
+        "value": "d587f00d9f858bad11152e3e934011ed2ee2f3e914aaf71ba6f460305ce40e8b7b205e534577bf20b4e66adb2d40d8fbf174b3ec3447bf20a8ae857536b92f4a"
       },
       "mod_ids": {
-        "fancymenu": "3.9.14"
+        "fancymenu": "3.10.0"
       },
       "dependencies": [
         {
@@ -3756,7 +3756,7 @@
         {
           "mod_id": "watermedia",
           "type": "optional",
-          "range": "[3.0.0.22,)"
+          "range": "[3.0.1,)"
         },
         {
           "mod_id": "neoforge",
@@ -4220,15 +4220,15 @@
       "name": "FTB Teams (NeoForge)",
       "source": "curseforge",
       "project_id": "404468",
-      "version_id": "8724782",
-      "filename": "ftb-teams-neoforge-2101.1.11.jar",
+      "version_id": "9434081",
+      "filename": "ftb-teams-neoforge-2101.1.12.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "62b65f752d0326edd13244e58d5f2aec035da4e9"
+        "value": "9c831fbbbccf2178827c3ccf278b2f2a0ce57306"
       },
       "mod_ids": {
-        "ftbteams": "2101.1.11"
+        "ftbteams": "2101.1.12"
       },
       "dependencies": [
         {
@@ -4244,7 +4244,7 @@
         {
           "mod_id": "ftblibrary",
           "type": "required",
-          "range": "[2101.1.30,)"
+          "range": "[2101.1.37,)"
         }
       ],
       "pw_file": "mods/ftb-teams-forge.pw.toml"
@@ -5021,36 +5021,41 @@
       "name": "Industrialization Overdrive",
       "source": "modrinth",
       "project_id": "FjBGB4sU",
-      "version_id": "6cbTrnqZ",
-      "filename": "industrialization_overdrive-1.14.0+1.21.1.jar",
+      "version_id": "lnT5n7e5",
+      "filename": "industrialization_overdrive-1.15.1+1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "59373459006c23b63d30dee4979c93227aa1cc1f981d55772a6ecf0ab2fc7cc18e46389932ae5b1c5fa1a34c87679a4129e631023eb8b631bc1f453deb0c607c"
+        "value": "1152bebd8b8e80ae159d3d9ec547c26194d8b21d7ab3feed46268899eb57bab5eaa562e341358aab545e1faca6dfb6336c489379111d9e1fe42d0c04e9a196a0"
       },
       "mod_ids": {
-        "industrialization_overdrive": "1.14.0+1.21.1"
+        "industrialization_overdrive": "1.15.1+1.21.1"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.228, 22-)"
+          "range": "[21.1.238, 22-)"
         },
         {
           "mod_id": "modern_industrialization",
           "type": "required",
-          "range": "[2.5.4, 2.6-)"
+          "range": "[2.5.12, 2.6-)"
         },
         {
           "mod_id": "tesseract_api",
           "type": "required",
-          "range": "[1.12.16, 1.13-)"
+          "range": "[1.12.20, 1.13-)"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "optional",
+          "range": "[19.2.17-,20-)"
         },
         {
           "mod_id": "guideme",
           "type": "optional",
-          "range": "[21.1.13, 22-)"
+          "range": "[21.1.22, 22-)"
         }
       ],
       "pw_file": "mods/industrialization-overdrive.pw.toml"
@@ -5120,15 +5125,15 @@
       "name": "Integrated Dynamics",
       "source": "curseforge",
       "project_id": "236307",
-      "version_id": "9385193",
-      "filename": "integrateddynamics-1.21.1-neoforge-1.38.2.jar",
+      "version_id": "9528481",
+      "filename": "integrateddynamics-1.21.1-neoforge-1.39.0.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "1a77cf34678dcdb3a11ab9695af6ce588e6fc600"
+        "value": "5aaaa79700dbcc2d0352f6db1eaeecfb431fdccd"
       },
       "mod_ids": {
-        "integrateddynamics": "1.38.2",
+        "integrateddynamics": "1.39.0",
         "integrateddynamicscompat": "1.0.0"
       },
       "dependencies": [
@@ -5261,16 +5266,16 @@
       "name": "Integrated Tunnels",
       "source": "curseforge",
       "project_id": "251389",
-      "version_id": "9046753",
-      "filename": "integratedtunnels-1.21.1-neoforge-1.13.0.jar",
+      "version_id": "9494567",
+      "filename": "integratedtunnels-1.21.1-neoforge-1.13.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "8f4e2dbd58bf6c3adbef4ed17201ba782de57c11"
+        "value": "37c61731e4aedf7344b0957e1dfab7e38d214328"
       },
       "mod_ids": {
-        "integratedtunnels": "1.13.0",
-        "integratedtunnelscompat": "1.13.0"
+        "integratedtunnels": "1.13.1",
+        "integratedtunnelscompat": "1.13.1"
       },
       "dependencies": [
         {
@@ -5366,15 +5371,15 @@
       "name": "Inventory Tweaks - ReFoxed",
       "source": "curseforge",
       "project_id": "976858",
-      "version_id": "6407807",
-      "filename": "invtweaks-1.21.1-1.3.2.jar",
+      "version_id": "9488021",
+      "filename": "invtweaks-1.21.1-1.4.0.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "76969e26520ab060d51515757db25282bed71b10"
+        "value": "26104f9735ead0d4defd09aa26110eca852d1610"
       },
       "mod_ids": {
-        "invtweaks": "1.21.1-1.3.2"
+        "invtweaks": "1.21.1-1.4.0"
       },
       "dependencies": [
         {
@@ -5632,15 +5637,15 @@
       "name": "JEI Stuff",
       "source": "curseforge",
       "project_id": "978621",
-      "version_id": "9260762",
-      "filename": "jeistuff-1.21.1-1.3.0.jar",
+      "version_id": "9533556",
+      "filename": "jeistuff-1.21.1-1.4.0.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "3f16d72c044b9e372731eca421273004a2342d95"
+        "value": "b82df5cb3d805af4a4f27d38e30750f0ae48d09d"
       },
       "mod_ids": {
-        "jeistuff": "1.21.1-1.3.0"
+        "jeistuff": "1.21.1-1.4.0"
       },
       "dependencies": [
         {
@@ -5890,15 +5895,15 @@
       "name": "Keybind Atlas",
       "source": "modrinth",
       "project_id": "fokFjwwh",
-      "version_id": "K68qjYLd",
-      "filename": "KeybindAtlas-v2.3.0-mc1.21.1-neoforge.jar",
+      "version_id": "r5GwaT7L",
+      "filename": "KeybindAtlas-v3.0.0-mc1.21.1-neoforge.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "826808a5820a918056c089219b2cbca69118d4f775a9996047fce18b3c49b8bdacbc10ba39964aca57d3562265d4f1af67cf988ade3438b337eae4ae2968d261"
+        "value": "2c5c7fdc10d6746e221245efe06523e6634ab14d4eb0bf4564c76b9d4526c764b940d8d2f420ff295be2f2fd5000fae26c12ac9a68d5ff809fdebe193d18a324"
       },
       "mod_ids": {
-        "keybindatlas": "2.3.0"
+        "keybindatlas": "3.0.0"
       },
       "dependencies": [
         {
@@ -6021,15 +6026,15 @@
       "name": "KotlinLangForge",
       "source": "modrinth",
       "project_id": "1vrSzlao",
-      "version_id": "fIh9AP9s",
-      "filename": "KotlinLangForge-2.17.0-k2.4.21-3.0+neoforge.jar",
+      "version_id": "wLbnmlH6",
+      "filename": "KotlinLangForge-2.19.0-k2.4.21-3.0+neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "b16acdc0caf602db502b92dab043162e9250c4c62a8a69a79300558023650f559cd3360fdfe798e50fb09584b7428140a1cd4d277c21ddfbda36e57cfb3b736b"
+        "value": "0e86625657f4b8f7875133782983e8095b4ce012dc07afccb149fff722cc637ca32604f09fc3ba7ae6e18ede244f823955edc7c1add3ceac4eef5651a8948dd1"
       },
       "mod_ids": {
-        "klf": "2.17.0-k2.4.21-3.0+neoforge"
+        "klf": "2.19.0-k2.4.21-3.0+neoforge"
       },
       "dependencies": [],
       "pw_file": "mods/kotlin-lang-forge.pw.toml"
@@ -6289,15 +6294,15 @@
       "name": "Logistics Network",
       "source": "curseforge",
       "project_id": "1448257",
-      "version_id": "9086994",
-      "filename": "logisticsnetworks-1.21.1-1.17.2.jar",
+      "version_id": "9432523",
+      "filename": "logisticsnetworks-1.21.1-1.18.0.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "c2d3860f2e84505931d4d8bac74f72f4bde0566e"
+        "value": "04c209b145fad94ffd6a8355ba4fb7b2705307d9"
       },
       "mod_ids": {
-        "logisticsnetworks": "1.17.2"
+        "logisticsnetworks": "1.18.0"
       },
       "dependencies": [
         {
@@ -6358,12 +6363,17 @@
         {
           "mod_id": "buildinggadgets2",
           "type": "optional",
-          "range": "[1.3.8,1.4)"
+          "range": "[1.3.8,)"
         },
         {
           "mod_id": "computercraft",
           "type": "optional",
           "range": "[1.113.0,)"
+        },
+        {
+          "mod_id": "curios",
+          "type": "optional",
+          "range": "[9.5.1,)"
         }
       ],
       "pw_file": "mods/logistics-network.pw.toml"
@@ -6423,15 +6433,15 @@
       "name": "McJtyLib",
       "source": "modrinth",
       "project_id": "1Zu0uTEE",
-      "version_id": "9B2CiAN5",
-      "filename": "mcjtylib-1.21-9.0.21.jar",
+      "version_id": "hvOvujxs",
+      "filename": "mcjtylib-1.21-9.0.22.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "3a349ea3718db9da87a6a8603d6beda5c132824cfeaf4dae7fbf3d463b7cab78b65f7deefd4a845bee3f7c3c60b9e062a27197fcd30d33f21cb9f0c4109d0e5c"
+        "value": "0c4ef91b23ca14cd59269bdf9ec68d615902a3641826cd43ff7976868ed5b8b8016e60870b02d7ac8dceb19a8f66993ed0dfa8f90a99ad9ab538ad8e0a1a0eac"
       },
       "mod_ids": {
-        "mcjtylib": "1.21-9.0.21"
+        "mcjtylib": "1.21-9.0.22"
       },
       "dependencies": [
         {
@@ -7154,16 +7164,16 @@
       "name": "Moonlight Lib",
       "source": "modrinth",
       "project_id": "twkfQtEc",
-      "version_id": "6F5EyGym",
-      "filename": "moonlight-1.21.1-3.8.0-neoforge.jar",
+      "version_id": "yBea1yLM",
+      "filename": "moonlight-1.21.1-3.8.3-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "102431d72458139836b6ddbd8bbae009ea2d13b7eeb4d9b72b4630aac0a0b75839a5dc5598129051339b821fb9e5f1441b18df3535f0c4ce03610820fd06bbae"
+        "value": "7b6479af8052419080bb1f5d28742daeef38a62bf33f2b47b70a1dafb01a06afd485cbc22e9f95c210e72b62364b96f539257dc8e03f5631a586ee9c4b5121bf"
       },
       "mod_ids": {
-        "moonlight": "1.21.1-3.8.0",
-        "codecui": "1.21.1-1.4.7"
+        "moonlight": "1.21.1-3.8.3",
+        "codecui": "1.21.1-1.4.10"
       },
       "dependencies": [
         {
@@ -7606,15 +7616,15 @@
       "name": "Oracle Index",
       "source": "modrinth",
       "project_id": "J8MMsNrL",
-      "version_id": "7OqGasX2",
-      "filename": "oracle_index-neoforge-1.4.0.jar",
+      "version_id": "8UTmNa3g",
+      "filename": "oracle_index-neoforge-1.4.1.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "3937fe508e7a077769d813662bf3e13dcd16874d63ac91a433810d7ee38a526e23ca0258f5810c5ea65d37cdff2cad7cb4067cf43cb9a4874316310b190e2a87"
+        "value": "3d7fdc821ad5f7ee814f47e0701e0f816b300f1541ae6f52df9264fd454ff97acb83fc259f1e25bf7947dfd8520bd86059af8033f6ecd62447a7e7016999caef"
       },
       "mod_ids": {
-        "oracle_index": "1.4.0"
+        "oracle_index": "1.4.1"
       },
       "dependencies": [
         {
@@ -8684,15 +8694,15 @@
       "name": "RFTools Builder",
       "source": "modrinth",
       "project_id": "e0IclJLr",
-      "version_id": "6LuZx89G",
-      "filename": "rftoolsbuilder-1.21-7.0.6.jar",
+      "version_id": "Rd4jSkcq",
+      "filename": "rftoolsbuilder-1.21-7.0.8.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "00088876d5c72b3a6e0e8be0fd368cd9cd718d21735df36f7aaeb7b53a1f6675288f4663a8c7316ac1a4ce98503421c9e5465d4850d07448686f4d72b6b51338"
+        "value": "dda9f2e422831aa8569611d2e6bf8dacd2b6a871c5c85773def955510e1cee389a37d9a2f834775c233625be7d3003c199d2aa6628cc0ec57c68fd7bde475105"
       },
       "mod_ids": {
-        "rftoolsbuilder": "1.21-7.0.6"
+        "rftoolsbuilder": "1.21-7.0.8"
       },
       "dependencies": [
         {
@@ -8783,15 +8793,15 @@
       "name": "RFTools Utility",
       "source": "modrinth",
       "project_id": "7n3HbHSE",
-      "version_id": "xOoMr4zS",
-      "filename": "rftoolsutility-1.21-7.0.12.jar",
+      "version_id": "aZePiBzc",
+      "filename": "rftoolsutility-1.21-7.0.13.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "ab46b45e8b867fbdeb8c8b69a219088d748727d34c1fa947383ed24370fd2111863f3cf373c100647406fcde8dc51522f2ceb02ccf1dbe0e827aa17fb1a323aa"
+        "value": "e2bc6f3ed90f9607f8acfc8f03e201cede2f8312935d8f442e934ed2063aa97ae7539c03c8651803c93f4e93898604241e42d2fd9cce515b20dbaffe0dc54516"
       },
       "mod_ids": {
-        "rftoolsutility": "1.21-7.0.12"
+        "rftoolsutility": "1.21-7.0.13"
       },
       "dependencies": [
         {
@@ -9387,21 +9397,21 @@
       "name": "Sophisticated Backpacks",
       "source": "curseforge",
       "project_id": "422301",
-      "version_id": "9385446",
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.19.2243.jar",
+      "version_id": "9524812",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "a6401f9e46fa41385dfdc1d550bdafd8d5758480"
+        "value": "d8858c4135c4be4b8f9db7454bb0086b40ddae9f"
       },
       "mod_ids": {
-        "sophisticatedbackpacks": "3.26.19"
+        "sophisticatedbackpacks": "3.26.21"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.23,)"
+          "range": "[1.5.32,)"
         },
         {
           "mod_id": "neoforge",
@@ -9415,15 +9425,15 @@
       "name": "Sophisticated Core",
       "source": "curseforge",
       "project_id": "618298",
-      "version_id": "9409247",
-      "filename": "sophisticatedcore-1.21.1-1.5.25.2451.jar",
+      "version_id": "9578162",
+      "filename": "sophisticatedcore-1.21.1-1.5.35.2473.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "3b6d2e72d6b4b62f743f91c736c0f4c16ca19f6a"
+        "value": "a881afeeadfa9f0078dad6bc77dce3f0b422b954"
       },
       "mod_ids": {
-        "sophisticatedcore": "1.5.25"
+        "sophisticatedcore": "1.5.35"
       },
       "dependencies": [
         {
@@ -9443,21 +9453,21 @@
       "name": "Sophisticated Storage",
       "source": "curseforge",
       "project_id": "619320",
-      "version_id": "9409326",
-      "filename": "sophisticatedstorage-1.21.1-1.6.15.2219.jar",
+      "version_id": "9578283",
+      "filename": "sophisticatedstorage-1.21.1-1.6.18.2229.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "2dc332fb7f84f7654a21f925a48fc54b8eced7ed"
+        "value": "7b6b98482d8f1f7d1f586c601eb4eae652b63bed"
       },
       "mod_ids": {
-        "sophisticatedstorage": "1.6.15"
+        "sophisticatedstorage": "1.6.18"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.25,)"
+          "range": "[1.5.35,)"
         },
         {
           "mod_id": "jei",
@@ -9747,15 +9757,15 @@
       "name": "SuperMartijn642's Core Lib",
       "source": "modrinth",
       "project_id": "rOUBggPv",
-      "version_id": "HGyYs7Z4",
-      "filename": "supermartijn642corelib-1.1.26-neoforge-mc1.21.jar",
+      "version_id": "sLRKmslC",
+      "filename": "supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "fa430e835175fe46a11fc2e2cf9a670cddd325ad6960245378b0adbdbfc9f45756e09e3a5f1a29b9f7c5be6f3a3498af13fd36d3bd5a4cca4549bf0040311bc7"
+        "value": "e90a1f1a2a4b1b095b6692e82b3f1bbf3aafa5653fa80759ac4243385ac1d10605b8713107847a9d0f5e8e4da161009aa3380ae20ca8f70784abfaa85e868492"
       },
       "mod_ids": {
-        "supermartijn642corelib": "1.1.26"
+        "supermartijn642corelib": "1.1.26+a"
       },
       "dependencies": [
         {
@@ -9933,15 +9943,15 @@
       "name": "Titanium",
       "source": "modrinth",
       "project_id": "1Ro7m06l",
-      "version_id": "8xgyJPGh",
-      "filename": "titanium-1.21-4.0.32.jar",
+      "version_id": "ZrffET42",
+      "filename": "titanium-1.21-4.0.52.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "97fd18109438bb97aa50f598c26e589fde20a396bc9ccf8ce2b1769deb5c9afdfbe279cd77eff179b424d86b9544659d217ac068ac27cdc7c834f2a5f1a0c531"
+        "value": "8fbdc6840c7f670f952018563f2e24b0666de392df2e2753bbd17548f9ea77f3291ee5047c32342a4e7dd017ad5ccc7e66999fbb2cd3693ddc888de5825cb2e2"
       },
       "mod_ids": {
-        "titanium": "4.0.32"
+        "titanium": "4.0.52"
       },
       "dependencies": [
         {
@@ -10220,15 +10230,15 @@
       "name": "Universal Grid",
       "source": "modrinth",
       "project_id": "kpMfA312",
-      "version_id": "fa0WBjoC",
-      "filename": "universalgrid-neoforge-1.21.1-0.3.2.jar",
+      "version_id": "8vN1cVJh",
+      "filename": "universalgrid-neoforge-1.21.1-0.3.3.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "93068efae47b8ef06af1b36730ba55d215989b98a149f54f291eb8f04abcfdf3cdedbede8469f06fc03254d829842f6760f13ca1d4cc254fecad7b7cccc58d98"
+        "value": "fca6f37199ea1462a6c02ea30c407d2e1b1405862a47c327963be9a52a29009c205d499f88d797b63ced8f198276cb141faf44f89616017b9eae06829fd03a67"
       },
       "mod_ids": {
-        "universalgrid": "1.21.1-0.3.2"
+        "universalgrid": "1.21.1-0.3.3"
       },
       "dependencies": [
         {

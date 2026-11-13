@@ -96,6 +96,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Preenchimento sequencial do Omni Upgrades: vinha no **Shift + N**, que é o Show Description do Mekanism.
 - Configuração do InventoryHUD+: vinha no **O**, que abre a tela de shaders do Iris. A tela também abre pelo botão de configuração na lista de mods.
 - Ajuste fino de animações do Punchy! (eixos, alvos, aumentar/diminuir, salvar): é ferramenta de quem cria animações e vinha no **R**, no **F6**, no **F7**, nas setas e no teclado numérico.
+- Chave vestida do Logistics Networks (Toggle Worn Wrench): vinha no **K**, que abre o Keybind Atlas.
 
 ### Teclas livres
 
@@ -423,6 +424,8 @@ O padrão era **I**, que é o inspecionar do Punchy!. A configuração (padrão 
 |---|---|---|
 | Alt + K | Cycle Keybind Sets | Jogo |
 | K | Open Keybind Atlas | Jogo |
+| — | Cycle controller sets | Jogo |
+| — | Open controller atlas | Jogo |
 
 ### KeyBind Bundles
 
@@ -443,6 +446,7 @@ O padrão era **I**, que é o inspecionar do Punchy!. A configuração (padrão 
 | Alt + I | Toggle Slot Numbers | Jogo |
 | Shift + H | Toggle Wrench HUD | Jogo |
 | G | Wrench Settings | Jogo |
+| — | Toggle Worn Wrench | Jogo |
 
 ### Mekanism
 
