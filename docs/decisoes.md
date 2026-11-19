@@ -46,3 +46,10 @@ Registro das decisões tomadas pelo desenvolvedor quando havia mais de um caminh
 - **Data:** 19/11/2026
 - **Decisão:** a ação nova `key.scc.lock_slot` fica em **Alt + L**. O padrão do mod, Alt + K, colidia com os detalhes do último pedido, que já estavam nessa tecla.
 - **Alternativa recusada:** deixar a ação sem tecla.
+
+## 8. O ciclo 2.2.1 passa a ser 2.3.0
+
+- **Data:** 19/11/2026
+- **Decisão:** a tecla nova do SCC (decisão 7) é uma mudança de teclas, que o `docs/VERSIONAMENTO.md` trata como MINOR. Na dúvida, vale a casa mais alta, e o ciclo fecha como **2.3.0**.
+- **Alternativa recusada:** manter 2.2.1 (PATCH), porque nenhuma tecla que o jogador já usava mudou.
+- **Muda:** a abertura do ciclo 2.2.1 (PR #7).

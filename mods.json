@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "2.2.1",
+  "pack_version": "2.3.0",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
