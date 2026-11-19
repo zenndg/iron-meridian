@@ -869,8 +869,20 @@ file = "config/extremesoundmuffler-client.toml"
 hash = "13dbc96f13757679e9723a28f1e6a287468514249fd876fc2de4745e2d9cb5bb"
 
 [[files]]
-file = "config/fancymenu/assets/technoverse_frontier_v7_background.png"
-hash = "bbe7f3225c65a75b9cce68ee8d222987fc4241c3fdf118ca2542167268aae7e5"
+file = "config/fancymenu/assets/iron_meridian_carregamento.jpg"
+hash = "7b9417aeff66a5238eed0a60f4034674fef70f5ff0345431cb5813ac3f534caf"
+
+[[files]]
+file = "config/fancymenu/assets/iron_meridian_emblema.png"
+hash = "e543c7a231ece17f432e360e1c90db1540d2bf6b5dd572840dbc55278e2820f0"
+
+[[files]]
+file = "config/fancymenu/assets/iron_meridian_fundo.jpg"
+hash = "a80f5fbb9cd7d6e8f1a5e99720867bded282548d47454684d03f4b17866ca4f3"
+
+[[files]]
+file = "config/fancymenu/assets/iron_meridian_fundo_desfocado.jpg"
+hash = "6edfd666bc3017fab0ab84313d8f07416b9de72151ca1e78684f650294a9264a"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -878,11 +890,19 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
+hash = "8b8b497e1f0ddc4d5faf15e888097a233250c7d8920a5a85df315a91471301d9"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "54de2248ac0e1fca831ce47c04d970b71764c5bfbfe621cf09ee7bc48b36d688"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "7d7a68d76ea0268c5574cf4e2c0620d4d9d83fbd1759c4910f96b1a63f7f9f5e"
+hash = "5584630e1d2304fe165ae061ec109efbf18bee7ef8663ad95197c06c27810ed4"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "e88d0cdf98efe3e8ecb63896a716b5a4bc2277b9b2522d8023f591939562cf5f"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -2317,7 +2337,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "f6b7a41311a25131c27a8655e14747850e3ff3054fc712fe489a7baa77c91ccd"
+hash = "a80bf191e679a2cb11f7cde53c83b1c245dc64965e93bc49e766784378df9db5"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -4350,6 +4370,82 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/button.png"
+hash = "7509d6f8e85b5fd7d9924a78fa41c8ba9432ac54a829363724f7c57455163cd0"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta"
+hash = "ae038ca9cbda5e9d01b4702623e493fefbf33c13a6f268518a125d5aa6ee31fa"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/button_disabled.png"
+hash = "5645279563d0fd42f37c970917eca3f0947be62dd1adb197b3c4b39c75e9c1a7"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/button_disabled.png.mcmeta"
+hash = "ae038ca9cbda5e9d01b4702623e493fefbf33c13a6f268518a125d5aa6ee31fa"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png"
+hash = "a66a167480518f240515e9a8d1f3ce5533f9a2a8653c50507d79ebeebd5a4ba1"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/button_highlighted.png.mcmeta"
+hash = "ae038ca9cbda5e9d01b4702623e493fefbf33c13a6f268518a125d5aa6ee31fa"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider.png"
+hash = "fd07742802d9731635bb58c94fbce3fc6497e85d582438a65646e8ce6eaafa4b"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider.png.mcmeta"
+hash = "fe06e7a0500378d2d963ae4071f3ba61a53d23f279ff7057897c3e7ffaed7ab3"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider_handle.png"
+hash = "e34e24a77ecd5a72dfb57f36e4ad0d67b5299beee23b9245bdddd3414d132f5b"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider_handle.png.mcmeta"
+hash = "f249f85c9606dd597dc606b7155edcb7a2717121fb2e23bc36fcaf58aa7e2c29"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png"
+hash = "1795a3507e2b68cc93f003b7dc873080b5b1bd7cc502ed0ed97c2d6befd6b965"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider_handle_highlighted.png.mcmeta"
+hash = "f249f85c9606dd597dc606b7155edcb7a2717121fb2e23bc36fcaf58aa7e2c29"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png"
+hash = "6e4eb1b2220616f2b501378e49d5f6eec198a80a282c6b7a00baf2a95fdfc40e"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/sprites/widget/slider_highlighted.png.mcmeta"
+hash = "fe06e7a0500378d2d963ae4071f3ba61a53d23f279ff7057897c3e7ffaed7ab3"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/title/edition.png"
+hash = "30d71c4299f0a0f87275d43d4174529b8a3710a89cff40235c5fac55b2339584"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "1137c21b4fc8bde62561dd97492fe3992519c8f00d9b41c0b77da2b247743ced"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "1137c21b4fc8bde62561dd97492fe3992519c8f00d9b41c0b77da2b247743ced"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/pack.mcmeta"
+hash = "a21d761da2d1c0d1b89dae8bf1f9c9eb814526d8180a0929bb9b8db19df53468"
+
+[[files]]
+file = "resourcepacks/Iron Meridian UI/pack.png"
+hash = "8839eda9db4691f0b0f10ae7b12ede3a9264785b880052eaa42ecac91a4b5488"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"

@@ -21,3 +21,4 @@ mods.json
 scripts/
 release/
 dist/
+/tmp/
