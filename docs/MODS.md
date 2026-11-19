@@ -30,12 +30,12 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 22 | Amendments | `amendments-1.21-2.2.7-neoforge.jar` | [Modrinth](https://modrinth.com/mod/6iTJugQR) |
 | 23 | Aperture Innovations - Portal Gun | `aperture_innovations-neoforge-2.1.1.jar` | [Modrinth](https://modrinth.com/mod/GsmkmPdY) |
 | 24 | AppleSkin | `appleskin-neoforge-mc1.21-3.0.9.jar` | [Modrinth](https://modrinth.com/mod/EsAfCjCV) |
-| 25 | Applied Energistics 2 | `appliedenergistics2-19.2.19.jar` | [Modrinth](https://modrinth.com/mod/XxWD5pD3) |
+| 25 | Applied Energistics 2 | `appliedenergistics2-19.2.20.jar` | [Modrinth](https://modrinth.com/mod/XxWD5pD3) |
 | 26 | Applied Energistics 2 Wireless Terminals | `ae2wtlib-19.5.1.jar` | [Modrinth](https://modrinth.com/mod/pNabrMMw) |
 | 27 | Applied Flux | `AppliedFlux-1.21-2.1.5-neoforge.jar` | [Modrinth](https://modrinth.com/mod/oMgZ004U) |
 | 28 | Applied Mekanistics | `Applied-Mekanistics-1.6.3.jar` | [Modrinth](https://modrinth.com/mod/IiATswDj) |
 | 29 | Applied Oritech | `applied_oritech-1.0.7-1.21.1.jar` | [CurseForge](https://www.curseforge.com/projects/1686167) |
-| 30 | Architectury API | `architectury-13.0.11-neoforge.jar` | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
+| 30 | Architectury API | `architectury-13.0.12-neoforge.jar` | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | 31 | Armor Poser | `ArmorPoser-neoforge-1.21.1-6.2.4.jar` | [Modrinth](https://modrinth.com/mod/PFwYNrHb) |
 | 32 | Athena | `athena-neoforge-1.21.1-4.0.6.jar` | [Modrinth](https://modrinth.com/mod/b1ZV3DIJ) |
 | 33 | AttributeFix | `attributefix-neoforge-1.21.1-21.1.3.jar` | [Modrinth](https://modrinth.com/mod/lOOpEntO) |
@@ -93,8 +93,8 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 85 | Cucumber Library | `Cucumber-1.21.1-8.0.16.jar` | [Modrinth](https://modrinth.com/mod/Rw1NrDzF) |
 | 86 | Cultural Delights | `culturaldelights-1.21.1-0.19.8.jar` | [Modrinth](https://modrinth.com/mod/YttyNOFA) |
 | 87 | Cupboard | `cupboard-1.21.1-4.2.jar` | [CurseForge](https://www.curseforge.com/projects/326652) |
-| 88 | Curios API | `curios-neoforge-9.5.1+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/vvuO3ImH) |
-| 89 | Cyclops Core | `cyclopscore-1.21.1-neoforge-1.30.1.jar` | [CurseForge](https://www.curseforge.com/projects/232758) |
+| 88 | Curios API | `curios-neoforge-9.6.0+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/vvuO3ImH) |
+| 89 | Cyclops Core | `cyclopscore-1.21.1-neoforge-1.30.2.jar` | [CurseForge](https://www.curseforge.com/projects/232758) |
 | 90 | Dark Mode Everywhere | `darkmodeeverywhere-neoforge-1.21.1-1.4.0.jar` | [Modrinth](https://modrinth.com/mod/k3lrwGqk) |
 | 91 | Deimos | `deimos-1.21.1-neoforge-2.8.jar` | [Modrinth](https://modrinth.com/mod/WQaxNzFg) |
 | 92 | DimStorage | `DimStorage-1.21.1-9.1.1.jar` | [Modrinth](https://modrinth.com/mod/8lnmIJH7) |
@@ -106,7 +106,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 98 | EarthMobs | `earthmobsmod-1.21.1-19.3.0.jar` | [Modrinth](https://modrinth.com/mod/XXnAl6q1) |
 | 99 | Easy Anvils | `EasyAnvils-v21.1.0-1.21.1-NeoForge.jar` | [Modrinth](https://modrinth.com/mod/OZBR5JT5) |
 | 100 | Easy Villagers | `easy-villagers-neoforge-1.21.1-1.1.49.jar` | [CurseForge](https://www.curseforge.com/projects/400514) |
-| 101 | Ecologics | `Ecologics-NeoForge-1.21.1-2.3.10_1.jar` | [Modrinth](https://modrinth.com/mod/NCKpPR0Z) |
+| 101 | Ecologics | `Ecologics-NeoForge-1.21.1-2.3.11.jar` | [Modrinth](https://modrinth.com/mod/NCKpPR0Z) |
 | 102 | EdivadLib | `EdivadLib-1.21-3.0.0.jar` | [Modrinth](https://modrinth.com/mod/a8Jk9kpK) |
 | 103 | ElevatorMod | `elevatorid-neoforge-1.21.1-1.11.4.jar` | [Modrinth](https://modrinth.com/mod/hi2dSXTu) |
 | 104 | Enchanting Infuser | `EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar` | [Modrinth](https://modrinth.com/mod/ePv85y52) |
@@ -118,7 +118,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 110 | EnderDrives | `enderdrives-neoforge-1.21.1-1.5.23.jar` | [CurseForge](https://www.curseforge.com/projects/1226739) |
 | 111 | Energy Meter | `energymeter-neoforge-1.21.1-0.6.0.jar` | [Modrinth](https://modrinth.com/mod/MbejSZ2E) |
 | 112 | Entangled | `entangled-1.3.21-neoforge-mc1.21.jar` | [Modrinth](https://modrinth.com/mod/rylMOguI) |
-| 113 | Entity Culling | `entityculling-neoforge-1.12.0-mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
+| 113 | Entity Culling | `entityculling-neoforge-1.12.1-mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/NNAgCjsB) |
 | 114 | Equipment Compare | `EquipmentCompare-1.21.1-neoforge-1.3.13.jar` | [Modrinth](https://modrinth.com/mod/CYSUVOdj) |
 | 115 | Expanded AE | `expandedae-2.1.4.jar` | [CurseForge](https://www.curseforge.com/projects/1213351) |
 | 116 | Explorer's Compass | `ExplorersCompass-1.21.1-3.4.0-neoforge.jar` | [Modrinth](https://modrinth.com/mod/RV1qfVQ8) |
@@ -140,12 +140,12 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 132 | FerriteCore | `ferritecore-7.0.3-neoforge.jar` | [Modrinth](https://modrinth.com/mod/uXXizFIs) |
 | 133 | fix GPU memory leak | `gpumemleakfix-1.21-1.8.jar` | [CurseForge](https://www.curseforge.com/projects/882495) |
 | 134 | FlickerFix | `flickerfix-1.21.1-6.1.0.jar` | [CurseForge](https://www.curseforge.com/projects/431430) |
-| 135 | Floating Damage Indicators | `fdi-neoforge-3.7.4+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/KjuuviMx) |
+| 135 | Floating Damage Indicators | `fdi-neoforge-3.8.4+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/KjuuviMx) |
 | 136 | Flux Networks | `FluxNetworks-1.21.1-8.0.0.jar` | [CurseForge](https://www.curseforge.com/projects/248020) |
-| 137 | FTB Chunks (NeoForge) | `ftb-chunks-neoforge-2101.1.23.jar` | [CurseForge](https://www.curseforge.com/projects/314906) |
+| 137 | FTB Chunks (NeoForge) | `ftb-chunks-neoforge-2101.1.24.jar` | [CurseForge](https://www.curseforge.com/projects/314906) |
 | 138 | FTB Essentials (Forge & Fabric) | `ftb-essentials-neoforge-2101.1.10.jar` | [CurseForge](https://www.curseforge.com/projects/410811) |
-| 139 | FTB Filter System | `ftb-filter-system-neoforge-21.1.4.jar` | [CurseForge](https://www.curseforge.com/projects/943925) |
-| 140 | FTB Library (NeoForge) | `ftb-library-neoforge-2101.1.39.jar` | [CurseForge](https://www.curseforge.com/projects/404465) |
+| 139 | FTB Filter System | `ftb-filter-system-neoforge-21.1.5.jar` | [CurseForge](https://www.curseforge.com/projects/943925) |
+| 140 | FTB Library (NeoForge) | `ftb-library-neoforge-2101.1.40.jar` | [CurseForge](https://www.curseforge.com/projects/404465) |
 | 141 | FTB Teams (NeoForge) | `ftb-teams-neoforge-2101.1.12.jar` | [CurseForge](https://www.curseforge.com/projects/404468) |
 | 142 | FTB Ultimine (NeoForge) | `ftb-ultimine-neoforge-2101.1.15.jar` | [CurseForge](https://www.curseforge.com/projects/386134) |
 | 143 | FTB XMod Compat | `ftb-xmod-compat-neoforge-21.1.14.jar` | [CurseForge](https://www.curseforge.com/projects/889915) |
@@ -163,7 +163,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 155 | Gravitational Modulating Additional Unit | `GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar` | [CurseForge](https://www.curseforge.com/projects/656136) |
 | 156 | Growth Accelerator Tiers | `growthacceleratortiers-2.0.1+1.21.1.jar` | [CurseForge](https://www.curseforge.com/projects/1316818) |
 | 157 | GuideME | `guideme-21.1.22.jar` | [Modrinth](https://modrinth.com/mod/Ck4E7v7R) |
-| 158 | HammerLib | `HammerLib-1.21-21.0.17.jar` | [Modrinth](https://modrinth.com/mod/PlkSuVtM) |
+| 158 | HammerLib | `HammerLib-1.21.1-21.1.20.jar` | [Modrinth](https://modrinth.com/mod/PlkSuVtM) |
 | 159 | Hey Berry! SHUT UP | `heyberryshutup-1.21.0-2.0.4.jar` | [Modrinth](https://modrinth.com/mod/EQGqfQ69) |
 | 160 | Hostile Neural Networks | `HostileNeuralNetworks-1.21.1-6.5.1.jar` | [Modrinth](https://modrinth.com/mod/6bLUlbZn) |
 | 161 | I'm Fast | `imfast-NEOFORGE-1.21.1-1.0.3.jar` | [Modrinth](https://modrinth.com/mod/PaUMOeP0) |
@@ -176,9 +176,9 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 168 | Industrialization Overdrive | `industrialization_overdrive-1.15.1+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/FjBGB4sU) |
 | 169 | Infinite Water Block | `infinitewaterblock-1.0-SNAPSHOT.jar` | [Modrinth](https://modrinth.com/mod/BLE1Vhak) |
 | 170 | Integrated Crafting | `integratedcrafting-1.21.1-neoforge-1.8.1.jar` | [CurseForge](https://www.curseforge.com/projects/287357) |
-| 171 | Integrated Dynamics | `integrateddynamics-1.21.1-neoforge-1.39.0.jar` | [CurseForge](https://www.curseforge.com/projects/236307) |
-| 172 | Integrated Scripting | `integratedscripting-1.21.1-neoforge-1.1.0.jar` | [CurseForge](https://www.curseforge.com/projects/889785) |
-| 173 | Integrated Terminals | `integratedterminals-1.21.1-neoforge-1.11.1.jar` | [CurseForge](https://www.curseforge.com/projects/295910) |
+| 171 | Integrated Dynamics | `integrateddynamics-1.21.1-neoforge-1.39.1.jar` | [CurseForge](https://www.curseforge.com/projects/236307) |
+| 172 | Integrated Scripting | `integratedscripting-1.21.1-neoforge-1.1.1.jar` | [CurseForge](https://www.curseforge.com/projects/889785) |
+| 173 | Integrated Terminals | `integratedterminals-1.21.1-neoforge-1.11.2.jar` | [CurseForge](https://www.curseforge.com/projects/295910) |
 | 174 | Integrated Tunnels | `integratedtunnels-1.21.1-neoforge-1.13.1.jar` | [CurseForge](https://www.curseforge.com/projects/251389) |
 | 175 | Interdimensional Wireless Transmitter | `interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar` | [Modrinth](https://modrinth.com/mod/nQR8XALE) |
 | 176 | Inventory Essentials | `inventoryessentials-neoforge-1.21.1-21.1.20.jar` | [CurseForge](https://www.curseforge.com/projects/368825) |
@@ -204,13 +204,13 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 196 | KeybindsPurger | `KeybindsPurger-1.4.0-neoforge-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/iaH7LvLy) |
 | 197 | KleeSlabs | `kleeslabs-neoforge-1.21.1-21.1.11.jar` | [Modrinth](https://modrinth.com/mod/7uh75ruZ) |
 | 198 | Konkrete | `konkrete_neoforge_1.9.9_MC_1.21.jar` | [Modrinth](https://modrinth.com/mod/J81TRJWm) |
-| 199 | Kotlin for Forge | `kotlinforforge-5.12.0-all.jar` | [Modrinth](https://modrinth.com/mod/ordsPcFz) |
-| 200 | KotlinLangForge | `KotlinLangForge-2.19.0-k2.4.21-3.0+neoforge.jar` | [Modrinth](https://modrinth.com/mod/1vrSzlao) |
+| 199 | Kotlin for Forge | `kotlinforforge-5.13.0-all.jar` | [Modrinth](https://modrinth.com/mod/ordsPcFz) |
+| 200 | KotlinLangForge | `KotlinLangForge-2.20.0-k2.4.21-3.0+neoforge.jar` | [Modrinth](https://modrinth.com/mod/1vrSzlao) |
 | 201 | KubeJS | `kubejs-neoforge-2101.7.2-build.381.jar` | [CurseForge](https://www.curseforge.com/projects/238086) |
 | 202 | LambDynamicLights - Dynamic Lights | `lambdynamiclights-4.8.11+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/yBW8D80W) |
 | 203 | Laser Bridges & Doors | `laserbridges-1.21.1-neoforge-6.3.jar` | [Modrinth](https://modrinth.com/mod/wz31BboV) |
 | 204 | Lithostitched | `lithostitched-1.8.1-neoforge-21.1.jar` | [Modrinth](https://modrinth.com/mod/XaDC71GB) |
-| 205 | Little Big Redstone | `little-big-redstone-1.9.13-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/cdz2XZgU) |
+| 205 | Little Big Redstone | `little-big-redstone-1.9.14-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/cdz2XZgU) |
 | 206 | Logistics Network | `logisticsnetworks-1.21.1-1.18.0.jar` | [CurseForge](https://www.curseforge.com/projects/1448257) |
 | 207 | Lootr | `lootr-neoforge-1.21.1-1.11.38.127.jar` | [Modrinth](https://modrinth.com/mod/EltpO5cN) |
 | 208 | Man of Many Planes | `man_of_many_planes-0.2.3+1.21.1-neoforge.jar` | [Modrinth](https://modrinth.com/mod/9qdTHi0q) |
@@ -234,7 +234,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 226 | Mob Grinding Utils | `mob_grinding_utils-1.1.10+mc1.21.1.jar` | [CurseForge](https://www.curseforge.com/projects/254241) |
 | 227 | Model Gap Fix | `modelfix-1.21-1.10.jar` | [Modrinth](https://modrinth.com/mod/QdG47OkI) |
 | 228 | Modern Dynamics | `Modern-Dynamics-0.9.6.jar` | [Modrinth](https://modrinth.com/mod/fMpvLrnF) |
-| 229 | Modern Industrialization | `Modern-Industrialization-2.5.12.jar` | [Modrinth](https://modrinth.com/mod/Gov5Dboq) |
+| 229 | Modern Industrialization | `Modern-Industrialization-2.5.13.jar` | [Modrinth](https://modrinth.com/mod/Gov5Dboq) |
 | 230 | ModernFix | `modernfix-neoforge-5.27.27+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/nmDcB62a) |
 | 231 | Modular Force Field Systems (MFFS) | `mffs-5.4.44.jar` | [CurseForge](https://www.curseforge.com/projects/238546) |
 | 232 | Modular Routers | `modular-routers-13.2.7+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/EuTS81Z3) |
@@ -247,7 +247,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 239 | Mouse Tweaks | `MouseTweaks-neoforge-mc1.21-2.26.1.jar` | [Modrinth](https://modrinth.com/mod/aC3cM3Vq) |
 | 240 | MSS - Moog's Soaring Structures | `MoogsSoaringStructures-universal-1.21-2.2.0.jar` | [Modrinth](https://modrinth.com/mod/RJCLIx7k) |
 | 241 | MVS - Moog's Voyager Structures | `MoogsVoyagerStructures-universal-1.21-5.1.3.jar` | [Modrinth](https://modrinth.com/mod/OQAgZMH1) |
-| 242 | Mystian Apiary | `mystianapiary-neoforge-1.10.jar` | [Modrinth](https://modrinth.com/mod/4YKkzsCe) |
+| 242 | Mystian Apiary | `mystianapiary-neoforge-1.11.jar` | [Modrinth](https://modrinth.com/mod/4YKkzsCe) |
 | 243 | Naturalist | `naturalist-2.0.7-neoforge-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/F8BQNPWX) |
 | 244 | Nature's Compass | `NaturesCompass-1.21.1-3.4.0-neoforge.jar` | [Modrinth](https://modrinth.com/mod/fPetb5Kh) |
 | 245 | NetherPortalFix | `netherportalfix-neoforge-1.21.1-21.1.1.jar` | [Modrinth](https://modrinth.com/mod/nPZr02ET) |
@@ -289,7 +289,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 281 | Refined Storage - Quartz Arsenal | `refinedstorage-quartz-arsenal-neoforge-1.0.8.jar` | [Modrinth](https://modrinth.com/mod/gnwGOmBf) |
 | 282 | Refined Types | `refined-types-1.21.1-0.3.2.jar` | [Modrinth](https://modrinth.com/mod/WvQIise1) |
 | 283 | Regions Unexplored | `regions-unexplored-0.6.3-neoforge-21.1.jar` | [Modrinth](https://modrinth.com/mod/Tkikq67H) |
-| 284 | Replication | `Replication-1.21.1-1.2.7.jar` | [CurseForge](https://www.curseforge.com/projects/638351) |
+| 284 | Replication | `Replication-1.21.1-1.2.8.jar` | [CurseForge](https://www.curseforge.com/projects/638351) |
 | 285 | Resourceful Config | `resourcefulconfig-neoforge-1.21-3.0.11.jar` | [Modrinth](https://modrinth.com/mod/M1953qlQ) |
 | 286 | Resourceful Lib | `resourcefullib-neoforge-1.21-3.0.12.jar` | [Modrinth](https://modrinth.com/mod/G1hIVOrD) |
 | 287 | RFTools Base | `rftoolsbase-1.21-6.0.11.jar` | [Modrinth](https://modrinth.com/mod/hIO8IsD8) |
@@ -315,9 +315,9 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 307 | Smithing Template Viewer | `smithingtemplateviewer-1.0.4.jar` | [Modrinth](https://modrinth.com/mod/oJsYTCP3) |
 | 308 | Sodium | `sodium-neoforge-0.8.13+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/AANobbMI) |
 | 309 | Solar Flux Reborn | `SolarFluxReborn-1.21.1-21.1.8.jar` | [Modrinth](https://modrinth.com/mod/4QG5lev4) |
-| 310 | Sophisticated Backpacks | `sophisticatedbackpacks-1.21.1-3.26.21.2249.jar` | [CurseForge](https://www.curseforge.com/projects/422301) |
-| 311 | Sophisticated Core | `sophisticatedcore-1.21.1-1.5.35.2473.jar` | [CurseForge](https://www.curseforge.com/projects/618298) |
-| 312 | Sophisticated Storage | `sophisticatedstorage-1.21.1-1.6.18.2229.jar` | [CurseForge](https://www.curseforge.com/projects/619320) |
+| 310 | Sophisticated Backpacks | `sophisticatedbackpacks-1.21.1-3.26.22.2257.jar` | [CurseForge](https://www.curseforge.com/projects/422301) |
+| 311 | Sophisticated Core | `sophisticatedcore-1.21.1-1.5.39.2489.jar` | [CurseForge](https://www.curseforge.com/projects/618298) |
+| 312 | Sophisticated Storage | `sophisticatedstorage-1.21.1-1.6.20.2239.jar` | [CurseForge](https://www.curseforge.com/projects/619320) |
 | 313 | Soulplied Energistics | `soulplied_energistics-1.0.3.jar` | [CurseForge](https://www.curseforge.com/projects/1143614) |
 | 314 | spark | `spark-1.10.124-neoforge.jar` | [Modrinth](https://modrinth.com/mod/l6YH9Als) |
 | 315 | Spawn | `spawn-4.0.8-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/rex9wwpz) |
@@ -329,10 +329,10 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 321 | Structurify - Structure Control | `structurify-neoforge-2.0.43+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/yz7AM2zx) |
 | 322 | Super Factory Manager | `Super Factory Manager (SFM)-MC1.21.1-4.34.0.jar` | [Modrinth](https://modrinth.com/mod/aecUorJQ) |
 | 323 | SuperMartijn642's Config Lib | `supermartijn642configlib-1.1.8-neoforge-mc1.21.jar` | [Modrinth](https://modrinth.com/mod/LN9BxssP) |
-| 324 | SuperMartijn642's Core Lib | `supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar` | [Modrinth](https://modrinth.com/mod/rOUBggPv) |
+| 324 | SuperMartijn642's Core Lib | `supermartijn642corelib-1.1.26b-neoforge-mc1.21.jar` | [Modrinth](https://modrinth.com/mod/rOUBggPv) |
 | 325 | Teal Lib | `teallib-1.3.teal.jar` | [Modrinth](https://modrinth.com/mod/rLJ1qF79) |
 | 326 | Tempad | `tempad-1.21.1-3.0.4-all.jar` | [Modrinth](https://modrinth.com/mod/gKNwt7xu) |
-| 327 | Tesseract API | `tesseract-api-neoforge-1.12.20-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/pHNT1iyc) |
+| 327 | Tesseract API | `tesseract-api-neoforge-1.12.21-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/pHNT1iyc) |
 | 328 | The Undergarden | `The_Undergarden-1.21.1-0.9.6.jar` | [Modrinth](https://modrinth.com/mod/Ejfl5qDL) |
 | 329 | Time in a bottle | `tiab-neoforge-6.5.4.jar` | [Modrinth](https://modrinth.com/mod/LQdpBqdS) |
 | 330 | Titanium | `titanium-1.21-4.0.52.jar` | [Modrinth](https://modrinth.com/mod/1Ro7m06l) |
@@ -350,7 +350,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 342 | Universal Keybinds | `justkeybinds-neoforge-1.21.1-1.0.0.jar` | [Modrinth](https://modrinth.com/mod/3kRUxjcS) |
 | 343 | Utilitarian | `utilitarian-1.21.1-0.19.2.jar` | [CurseForge](https://www.curseforge.com/projects/929559) |
 | 344 | Veggies Delight (A Farmer's Delight Add-on) | `VeggiesDelight-1.21.1-1.9.3.jar` | [Modrinth](https://modrinth.com/mod/emQ94xri) |
-| 345 | Waystones | `waystones-neoforge-1.21.1-21.1.46.jar` | [Modrinth](https://modrinth.com/mod/LOpKHB2A) |
+| 345 | Waystones | `waystones-neoforge-1.21.1-21.1.47.jar` | [Modrinth](https://modrinth.com/mod/LOpKHB2A) |
 | 346 | WeatherForecast | `weather_forecast-1.3.0-neoforge-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/H2Szwg8v) |
 | 347 | When Dungeons Arise | `DungeonsArise-1.21.1-2.1.68-release.jar` | [Modrinth](https://modrinth.com/mod/8DfbfASn) |
 | 348 | When Dungeons Arise: Seven Seas | `DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar` | [Modrinth](https://modrinth.com/mod/ZsrrjDbP) |
