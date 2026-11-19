@@ -15,3 +15,6 @@ dist/
 
 # Dados por mundo e servidor do JEI, gerados em cada instalação
 config/jei/world/
+
+# Rascunhos locais (prompts de arte e outros)
+/tmp/
