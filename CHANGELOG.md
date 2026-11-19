@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.4.1 — 19/11/2026
+
+### Correções
+- **Zip de importação:** o `IronMeridian-Prism.zip` passa a levar o ícone da instância, o emblema do pack. Antes, ele dependia de o arquivo ser incluído à mão. Nada muda no que o jogo baixa: quem já tem a instância não precisa fazer nada.
+
+O pack continua com **372 mods**.
+
 ## 2.4.0 — 19/11/2026
 
 ### Telas
