@@ -890,7 +890,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "8b8b497e1f0ddc4d5faf15e888097a233250c7d8920a5a85df315a91471301d9"
+hash = "a371243fb766695199b0897e8d774067993e5dc97202aa279f3077416f114fd9"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"

@@ -1,5 +1,22 @@
 # Changelog
 
+## 2.4.0 — 19/11/2026
+
+### Telas
+- **Tela inicial nova:** uma paisagem industrial com fábricas, fornalhas de metal fundido e uma linha de energia ciano que corta o mundo, com o logo **IRON MERIDIAN** no lugar do logo do Minecraft.
+- **Tela de carregamento:** uma sala de controle industrial, com o emblema do pack e uma barra de progresso ciano.
+- **Pausa, opções, mundos, mods e a tela de boas-vindas da primeira abertura:** usam o mesmo fundo, desfocado e escurecido.
+- **Botões e sliders de metal**, com destaque ciano sob o mouse, em todas as telas que usam os botões do Minecraft, inclusive as dos mods. Eles vêm do resource pack **Iron Meridian UI**.
+  - **Quem já tem o jogo instalado** precisa ativar o pack: abra **Opções → Pacotes de recursos**, mova o **Iron Meridian UI** para a coluna da direita e deixe-o **no topo da lista**, acima de outros pacotes que mudam os botões (como o Faithful). Em instalações novas, ele já vem ativado.
+- O zip de importação traz o **emblema do pack como ícone da instância** no Prism.
+- Os fundos se ajustam a monitores largos sem esticar.
+- A arte foi feita para o pack. O fundo antigo da tela inicial, que tinha origem incerta, saiu.
+
+### Outros
+- O repositório agora fica em **github.com/zenndg/iron-meridian**. Os links do pack, inclusive o do livro de boas-vindas, foram atualizados. Instalações antigas continuam funcionando, porque o GitHub redireciona o endereço antigo.
+
+O pack continua com **372 mods**.
+
 ## 2.3.0 — 19/11/2026
 
 ### Atualizações
