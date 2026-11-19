@@ -33,3 +33,10 @@ Registro das decisões tomadas pelo desenvolvedor quando havia mais de um caminh
 - **Decisão:** o PR #3, aberto antes da decisão 3, ganha a issue #5 e o `Closes #5`. A branch continua `docs/fluxo-git`, porque trocar o nome fecharia o PR.
 - **Alternativa recusada:** deixar o #3 sem issue, como exceção.
 - **Aplica:** a decisão 3.
+
+## 6. Portal Gun 3.0.0 fora das atualizações do ciclo 2.2.1
+
+- **Data:** 19/11/2026
+- **Decisão:** as outras 26 atualizações entram na 2.2.1, que continua PATCH. O Portal Gun fica na 2.1.1, no `scripts/update-ignore.json`, até ser testado com um mundo existente (issue #9).
+- **Alternativa recusada:** aplicar as 27 de uma vez, o que faria o ciclo virar 2.3.0.
+- **Por quê:** a 3.0.0 refaz o Large Button e o Pedestal Button e o sistema de variantes, o que pode quebrar mundos existentes.
