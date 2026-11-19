@@ -5904,29 +5904,6 @@
       "pw_file": "mods/just-enough-resources-jer.pw.toml"
     },
     {
-      "name": "Universal Keybinds",
-      "source": "modrinth",
-      "project_id": "3kRUxjcS",
-      "version_id": "L60glucd",
-      "filename": "justkeybinds-neoforge-1.21.1-1.0.0.jar",
-      "side": "client",
-      "hash": {
-        "format": "sha512",
-        "value": "cd9408ee73fa28a1d34c7635459a883d92f9f5bf1eba33ee218a8b69fc1a99e533503733cb5914fc18c5138cdd3d1919951345544c32d78ff56518bc451526bd"
-      },
-      "mod_ids": {
-        "justkeybinds": "1.0.0"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.80,)"
-        }
-      ],
-      "pw_file": "mods/just-universal-keybinds.pw.toml"
-    },
-    {
       "name": "Just Zoom",
       "source": "modrinth",
       "project_id": "iAiqcykM",

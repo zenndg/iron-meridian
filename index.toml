@@ -3462,11 +3462,6 @@ hash = "0ffbcb406354628ad32de0c93ada14835fde4a03bda26d8cb72b4649344a838b"
 metafile = true
 
 [[files]]
-file = "mods/just-universal-keybinds.pw.toml"
-hash = "04a0dbfe3482acab4680091469339b80fd2775d7ddaccc3f01b0b9ad32563f0e"
-metafile = true
-
-[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "4c64dc39ebe1d44d39b5876848695d3f8d4670be71019509bf74905309ac2791"
 metafile = true

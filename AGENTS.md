@@ -132,7 +132,7 @@ python3 scripts/mods.py who-needs <modId>
   - em *Sem tecla, de propósito*;
   - na seção do mod, em ordem alfabética.
 - O `configureddefaults/options.txt` precisa manter a linha `version:` no topo. Sem ela, o jogo descarta o arquivo em instalações novas.
-- O `configureddefaults/` só vale para instalações novas. Para mudar a instância do usuário, edite com o jogo fechado o `options.txt` dela **e** o perfil do Universal Keybinds, em `~/.config/JustKeybinds/profiles/default/keybinds.json`. Sem o perfil, o mod reverte as teclas.
+- O `configureddefaults/` só vale para instalações novas. Para mudar a instância do usuário, edite com o jogo fechado o `options.txt` dela.
 - Ids que começam com `gui.` (por exemplo, `gui.xaero_*`) podem ser ações no mundo, não de tela.
 - Ações que só funcionam dentro de telas não colidem com as do mundo.
 
@@ -163,7 +163,6 @@ O procedimento completo está na seção 6 de `docs/MANUTENCAO.md`.
 | Java para o javap | `~/.local/share/PrismLauncher/java/java-runtime-delta/bin/` |
 | Leitor de NBT (save, região, `level.dat`) | `~/.cache/iron-meridian/nbt.py`, com as funções `load`, `World`, `find` e `todict` |
 
-- As duas instâncias dividem o perfil global do Universal Keybinds.
 - O save só reflete o jogo depois que ele salva (Esc ou sair do mundo).
 - Não mexa na instância do usuário com o jogo aberto.
 - Não investigue dispositivos de entrada (`/dev/input`) sem pedir.

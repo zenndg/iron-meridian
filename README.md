@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **372 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **371 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/zenndg/iron-meridian?label=vers%C3%A3o)](https://github.com/zenndg/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/zenndg/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 372 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 371 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -105,7 +105,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **FTB Essentials**: `/sethome`, `/home`, `/back`, `/spawn`, `/rtp` e outros comandos que funcionam sem cheats
 - **FTB Chunks**: no mapa de chunks (**Alt + M**), reivindique a área da base, que fica protegida contra explosões e grief de mobs, e mantenha os chunks carregados (até 25). O minimapa dele fica desligado, porque o pack usa o do Xaero.
 - **Dynamic FPS**, **Enchanting Infuser**, **Shulker Box Tooltip**, **Actually Harvest** (clique direito colhe e replanta), **Omni Upgrades** (instala upgrades em lote nas máquinas), **Backpack Side GUI** (mochila num painel lateral)
-- **Interface e teclas:** Reese's Sodium Options, BetterF3, Equipment Compare, Configured Defaults, Command Keys (comandos em teclas), Keybind Atlas (mapa do teclado), Universal Keybinds, Controlling, Searchables, KeybindsPurger e KeyBind Bundles.
+- **Interface e teclas:** Reese's Sodium Options, BetterF3, Equipment Compare, Configured Defaults, Command Keys (comandos em teclas), Keybind Atlas (mapa do teclado), Controlling, Searchables, KeybindsPurger e KeyBind Bundles.
 
 ### Desempenho e gráficos
 - **Sodium**, **Iris** (shader *Complementary Reimagined r5.6.1*), **ModernFix**, **FerriteCore**, **ImmediatelyFast**, **Entity Culling**, **AllTheLeaks**, **spark**, **BadOptimizations**, **Alternate Current** (redstone leve) e os mods do Someaddon (**Fast Async World Save**, **Smooth Chunk Save**, **Recipe Essentials**, **Structure Essentials** e **fix GPU memory leak**)

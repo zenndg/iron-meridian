@@ -32,7 +32,6 @@ Estes erros aparecem no log, mas não afetam o jogo:
 
 ## Teclas e controles
 
-- **Teclas voltam ao que eram depois de editar o `options.txt` à mão.** O **Universal Keybinds** guarda as teclas num perfil global (`~/.config/JustKeybinds/profiles/default/keybinds.json` no Linux) e o reaplica ao abrir o jogo. Mude as teclas em **Opções → Controles** (o mod salva sozinho) ou edite os dois arquivos com o jogo fechado. Veja o [mapa de teclas](TECLAS.md).
 - **Carry On não pega um bloco ou mob.** Na 2.0, ele só carrega animais, baús, barris e Shulker Boxes. Aldeões ficam com o Easy Villagers, e máquinas são movidas com a **Configurator** do Mekanism no modo *Wrench* (Shift + clique direito).
 - **Carry On abre o baú em vez de pegar.** As duas mãos precisam estar vazias (inclusive a secundária) e o Shift precisa estar pressionado antes do clique direito. Baús e barris do Sophisticated Storage guardam os itens quando quebrados; os baús e barris comuns do Minecraft, não.
 
