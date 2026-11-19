@@ -41,7 +41,7 @@ CACHE = os.path.expanduser("~/.cache/iron-meridian/jars")
 DEFAULT_INSTANCE = os.path.expanduser(
     "~/.local/share/PrismLauncher/instances/IronMeridian-Prism/minecraft/mods")
 PACKWIZ = os.environ.get("PACKWIZ", os.path.expanduser("~/go/bin/packwiz"))
-UA = {"User-Agent": "iron-meridian-mods-tool (github.com/marcelofabianov/iron-meridian)"}
+UA = {"User-Agent": "iron-meridian-mods-tool (github.com/zenndg/iron-meridian)"}
 
 pack = tomllib.load(open(os.path.join(ROOT, "pack.toml"), "rb"))
 MC = pack["versions"]["minecraft"]
