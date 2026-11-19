@@ -1,5 +1,20 @@
 # Changelog
 
+## 2.3.0 — 19/11/2026
+
+### Atualizações
+- **SCC (Super Cool Calculator) 1.6.5**, antes 1.4.7: traz o Matter Link (integração com o Replication), fluidos na janela de pedidos, o editor de lógica e uma análise de receitas mais rápida. O mod só tem versões beta. Nada se perde no mundo. Os Quarry Markers saíram da receita e do JEI, mas os que já estão colocados continuam.
+  - **O download continua manual.** Na primeira abertura depois da atualização, o instalador mostra o link do `scc-1.6.5.jar`. Baixe o arquivo, coloque em `minecraft/mods/` e **apague o `scc-1.4.7.jar`**, porque o instalador não remove o arquivo que foi colocado à mão. Os detalhes estão no [INSTALL.md](INSTALL.md).
+- **26 mods** para a versão estável mais nova: Applied Energistics 2 19.2.20, Architectury API 13.0.12, Curios API 9.6.0, Cyclops Core 1.30.2, Ecologics 2.3.11, Entity Culling 1.12.1, Floating Damage Indicators 3.8.4, FTB Chunks 2101.1.24, FTB Filter System 21.1.5, FTB Library 2101.1.40, HammerLib 21.1.20, Integrated Dynamics 1.39.1, Integrated Scripting 1.1.1, Integrated Terminals 1.11.2, Kotlin for Forge 5.13.0, KotlinLangForge 2.20.0, Little Big Redstone 1.9.14, Modern Industrialization 2.5.13, Mystian Apiary 1.11, Replication 1.2.8, Sophisticated Backpacks 3.26.22, Sophisticated Core 1.5.39, Sophisticated Storage 1.6.20, SuperMartijn642's Core Lib 1.1.26b, Tesseract API 1.12.21 e Waystones 21.1.47.
+- O **Portal Gun (Aperture Innovations)** fica na 2.1.1. A 3.0.0 descarta os dados do Large Button e do Pedestal Button já colocados.
+
+### Teclas
+- **Alt + L** trava um slot da hotbar para o clique do meio (Pick Block), uma ação nova do SCC. O padrão do mod era Alt + K, que já são os detalhes do último pedido.
+  - **Quem já tem o jogo instalado** recebe o padrão do mod, e as duas ações ficam no Alt + K. Para corrigir, abra **Opções → Controles**, procure "Lock hotbar slot" e troque para Alt + L.
+- O menu rápido dos módulos estelares, outra ação nova do SCC, já vem sem tecla.
+
+O pack continua com **372 mods**.
+
 ## 2.2.0 — 12/11/2026
 
 ### Mods novos

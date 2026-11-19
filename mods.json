@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "2.2.0",
+  "pack_version": "2.3.0",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -434,15 +434,15 @@
       "name": "Applied Energistics 2",
       "source": "modrinth",
       "project_id": "XxWD5pD3",
-      "version_id": "DxZ2waV0",
-      "filename": "appliedenergistics2-19.2.19.jar",
+      "version_id": "7Ac6mXbf",
+      "filename": "appliedenergistics2-19.2.20.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "36385eb9c41e1b1eb4632cac297f9b5560f9d56c061622e99ea2e1fb74f6ff3b9ad09d9e332547d30a3c7559fd4444ee9536a6e1ae12af57c8a8826932a09b29"
+        "value": "5caab83d4f4134d0161f22307aaf642c6ba89756490a2170986b236efca9ce2b2aa95a1ba82d483227702369bc3cac7aaa4e45fec885059f8b5da4f0d30205b9"
       },
       "mod_ids": {
-        "ae2": "19.2.19"
+        "ae2": "19.2.20"
       },
       "dependencies": [
         {
@@ -1004,15 +1004,15 @@
       "name": "Architectury API",
       "source": "modrinth",
       "project_id": "lhGA9TYQ",
-      "version_id": "1IiqEQGl",
-      "filename": "architectury-13.0.11-neoforge.jar",
+      "version_id": "xGfBrBzj",
+      "filename": "architectury-13.0.12-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "d9f7c3bb8162577dfb461ffdf04bd6a3563c7586934a0e2a744c14421beffb8286f0d88d4c758317003f20f99fe8072a39b9d675af061e036970d36db36027f0"
+        "value": "286127f99708d1e2723e1dcc9104ebcab258f04db92040fc2394e5b7faf36d731ef3b84e592d94ec0d0f7f899eca84f806b1e012223da4894d4d8af5030ffe0f"
       },
       "mod_ids": {
-        "architectury": "13.0.11"
+        "architectury": "13.0.12"
       },
       "dependencies": [
         {
@@ -2552,21 +2552,21 @@
       "name": "Curios API",
       "source": "modrinth",
       "project_id": "vvuO3ImH",
-      "version_id": "yohfFbgD",
-      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "version_id": "KJsZIQrT",
+      "filename": "curios-neoforge-9.6.0+1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
+        "value": "1453d7c970f37b357967dbdad080ed107e90eea2b151e88a5e51b271a38ac72686d47a328fb8b3125cb8c6069130b72ac4b1c023f18ba5244f7550e4599bf8a4"
       },
       "mod_ids": {
-        "curios": "9.5.1+1.21.1"
+        "curios": "9.6.0+1.21.1"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.60,)"
+          "range": "[21.1.265,)"
         }
       ],
       "pw_file": "mods/curios.pw.toml"
@@ -2575,15 +2575,15 @@
       "name": "Cyclops Core",
       "source": "curseforge",
       "project_id": "232758",
-      "version_id": "9383688",
-      "filename": "cyclopscore-1.21.1-neoforge-1.30.1.jar",
+      "version_id": "9626282",
+      "filename": "cyclopscore-1.21.1-neoforge-1.30.2.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "e6241bbce9c59cfd46602b35a435cba1267aa13b"
+        "value": "89da06e6004d7fa4fc6cc0a068ad58f6d7d96954"
       },
       "mod_ids": {
-        "cyclopscore": "1.30.1"
+        "cyclopscore": "1.30.2"
       },
       "dependencies": [
         {
@@ -2905,15 +2905,15 @@
       "name": "Ecologics",
       "source": "modrinth",
       "project_id": "NCKpPR0Z",
-      "version_id": "NFmPPUo2",
-      "filename": "Ecologics-NeoForge-1.21.1-2.3.10_1.jar",
+      "version_id": "mlotRe9X",
+      "filename": "Ecologics-NeoForge-1.21.1-2.3.11.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "0e1624466cb268e58e68896f6398ef80a8881d4cf854d2f450a66d6372d685bd74f22d955656eb2cd7cf4b4a04d5fb6130e844e63a9ced75c99c3111bd960ff6"
+        "value": "8b7aca44d6f8ec8ed3c429d44a4e340862ea9c0d1a900602c9780b17350dc1cb4631a25c060182db3ac1bbcde8116c91f4b58c4266ea6aa2cf6b5e3a875409f5"
       },
       "mod_ids": {
-        "ecologics": "2.3.10"
+        "ecologics": "2.3.11"
       },
       "dependencies": [
         {
@@ -3353,15 +3353,15 @@
       "name": "Entity Culling",
       "source": "modrinth",
       "project_id": "NNAgCjsB",
-      "version_id": "NQY3eIQQ",
-      "filename": "entityculling-neoforge-1.12.0-mc1.21.1.jar",
+      "version_id": "DDaDZQ47",
+      "filename": "entityculling-neoforge-1.12.1-mc1.21.1.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "06236a5e0620a7bfa1692c460c9564e8b3342c0fc15c70d73cbf2b9b48cfacb1d0cdab35cd5528e563420c3834d7b73ce19056ad8888c16849044c41b4cd564d"
+        "value": "c1818837b0e43f67fa4cd2cfffc2d57c17e579b405b215dd627e3ea68d0c000b56a79614cd41f20451ea7a687e9e9de66afe871f0b9bcec680699445ea0d9fa3"
       },
       "mod_ids": {
-        "entityculling": "1.12.0",
+        "entityculling": "1.12.1",
         "transition": "1.0.28",
         "trender": "1.0.17"
       },
@@ -4088,15 +4088,15 @@
       "name": "Floating Damage Indicators",
       "source": "modrinth",
       "project_id": "KjuuviMx",
-      "version_id": "4wa1g1Wx",
-      "filename": "fdi-neoforge-3.7.4+mc1.21.1.jar",
+      "version_id": "cvTi0HGX",
+      "filename": "fdi-neoforge-3.8.4+mc1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "29c9e510e3988f819b93e0b4abfdd0d9c52c67637c0b0dca08e1cc03de67089c648f180e342812edd5970b90b110dc9c7cc285d761dea3b07146916b1037fcd1"
+        "value": "b4bd8ef53076635a50a8df8cb0059d3cb493d6b889c12ca94c054bd40716ca6688da489854be75f65d2d82d814adeb038303d851ce1f50c5213187045c84f8bc"
       },
       "mod_ids": {
-        "floatingdamageindicators": "3.7.4+mc1.21.1"
+        "floatingdamageindicators": "3.8.4+mc1.21.1"
       },
       "dependencies": [
         {
@@ -4149,15 +4149,15 @@
       "name": "FTB Chunks (NeoForge)",
       "source": "curseforge",
       "project_id": "314906",
-      "version_id": "9374151",
-      "filename": "ftb-chunks-neoforge-2101.1.23.jar",
+      "version_id": "9594476",
+      "filename": "ftb-chunks-neoforge-2101.1.24.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "a99a51ef8e413af26ee32c4d33a11526fccdd1d1"
+        "value": "f0d48143cc80918cf632a4c14c3ca3e974ed0457"
       },
       "mod_ids": {
-        "ftbchunks": "2101.1.23"
+        "ftbchunks": "2101.1.24"
       },
       "dependencies": [
         {
@@ -4230,15 +4230,15 @@
       "name": "FTB Filter System",
       "source": "curseforge",
       "project_id": "943925",
-      "version_id": "7429011",
-      "filename": "ftb-filter-system-neoforge-21.1.4.jar",
+      "version_id": "9698388",
+      "filename": "ftb-filter-system-neoforge-21.1.5.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "a48e54edeacc59aaba29a1b627799c052112ee0b"
+        "value": "77181915b5850f6e6685f4a3145b0dce84e01f73"
       },
       "mod_ids": {
-        "ftbfiltersystem": "21.1.4"
+        "ftbfiltersystem": "21.1.5"
       },
       "dependencies": [
         {
@@ -4249,12 +4249,12 @@
         {
           "mod_id": "architectury",
           "type": "required",
-          "range": "[13.0.8,)"
+          "range": "[13.0.11,)"
         },
         {
           "mod_id": "ftblibrary",
           "type": "required",
-          "range": "[2101.1.29,)"
+          "range": "[2101.1.40,)"
         },
         {
           "mod_id": "jei",
@@ -4273,15 +4273,15 @@
       "name": "FTB Library (NeoForge)",
       "source": "curseforge",
       "project_id": "404465",
-      "version_id": "9350706",
-      "filename": "ftb-library-neoforge-2101.1.39.jar",
+      "version_id": "9650381",
+      "filename": "ftb-library-neoforge-2101.1.40.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "ff852d99ade215fb892369687d0634ecf0bca6ae"
+        "value": "e5f24391a447754dbc6d37d866981f47d67bb664"
       },
       "mod_ids": {
-        "ftblibrary": "2101.1.39"
+        "ftblibrary": "2101.1.40"
       },
       "dependencies": [
         {
@@ -4807,15 +4807,15 @@
       "name": "HammerLib",
       "source": "modrinth",
       "project_id": "PlkSuVtM",
-      "version_id": "xUFPUf7h",
-      "filename": "HammerLib-1.21-21.0.17.jar",
+      "version_id": "Vp9Cpsbq",
+      "filename": "HammerLib-1.21.1-21.1.20.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "d5de4cecae6fe015b65b0bb53d76be0f3ce6893fb652a54e8e949ad8f3b65e431accbd452d3547373a01b2e6050c670c6ea2a9f4cee3e9020149e3a11e0f7aaa"
+        "value": "d6ddefe44ce7ffefbd6a0dae7446716ebc20180d8324db152cb36c61cf06d20965f3f4a8c1bd1871a094ec2d1f2e4e7c4da31361543d000b89db2b1402657531"
       },
       "mod_ids": {
-        "hammerlib": "21.0.17"
+        "hammerlib": "21.1.20"
       },
       "dependencies": [
         {
@@ -5211,15 +5211,15 @@
       "name": "Integrated Dynamics",
       "source": "curseforge",
       "project_id": "236307",
-      "version_id": "9528481",
-      "filename": "integrateddynamics-1.21.1-neoforge-1.39.0.jar",
+      "version_id": "9626576",
+      "filename": "integrateddynamics-1.21.1-neoforge-1.39.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "5aaaa79700dbcc2d0352f6db1eaeecfb431fdccd"
+        "value": "d9bd5400bd9abbac1a3b83c26f10ea3c7000aeee"
       },
       "mod_ids": {
-        "integrateddynamics": "1.39.0",
+        "integrateddynamics": "1.39.1",
         "integrateddynamicscompat": "1.0.0"
       },
       "dependencies": [
@@ -5260,15 +5260,15 @@
       "name": "Integrated Scripting",
       "source": "curseforge",
       "project_id": "889785",
-      "version_id": "9393701",
-      "filename": "integratedscripting-1.21.1-neoforge-1.1.0.jar",
+      "version_id": "9626997",
+      "filename": "integratedscripting-1.21.1-neoforge-1.1.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "42f61de23d3c982cf044db5aa950057f9507c3c0"
+        "value": "9a550e4ed6d5d43dea5da6461932814d91339a10"
       },
       "mod_ids": {
-        "integratedscripting": "1.1.0"
+        "integratedscripting": "1.1.1"
       },
       "dependencies": [
         {
@@ -5298,15 +5298,15 @@
       "name": "Integrated Terminals",
       "source": "curseforge",
       "project_id": "295910",
-      "version_id": "9220317",
-      "filename": "integratedterminals-1.21.1-neoforge-1.11.1.jar",
+      "version_id": "9626869",
+      "filename": "integratedterminals-1.21.1-neoforge-1.11.2.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "e67203486e3c749d231bb3ba04e0147d1d54c359"
+        "value": "7f487409585cb75b4659a33e8681a6c2cd0cc3c5"
       },
       "mod_ids": {
-        "integratedterminals": "1.11.1",
+        "integratedterminals": "1.11.2",
         "integratedterminalscompat": "1.0.0"
       },
       "dependencies": [
@@ -6095,15 +6095,15 @@
       "name": "Kotlin for Forge",
       "source": "modrinth",
       "project_id": "ordsPcFz",
-      "version_id": "uhJhCT7X",
-      "filename": "kotlinforforge-5.12.0-all.jar",
+      "version_id": "9ZlVvei8",
+      "filename": "kotlinforforge-5.13.0-all.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "b8c3942f4d33179edf3f102f3d870b99dd436f8b8236dbbd31aa51b888162c692cfd88927295f24dc8b4375232f4c6c17360c5d6c4823f93cbcd7cf4bdc8bd14"
+        "value": "64a26f73e3299ad09b350d3421e3f97a5ccd158d1936fb50fc57f3c88bf6fd33814568bf43a0886f79ada4be65d65d232d9e20a901833150ec5b89a01c46d459"
       },
       "mod_ids": {
-        "kotlinforforge": "5.12.0"
+        "kotlinforforge": "5.13.0"
       },
       "dependencies": [],
       "pw_file": "mods/kotlin-for-forge.pw.toml"
@@ -6112,15 +6112,15 @@
       "name": "KotlinLangForge",
       "source": "modrinth",
       "project_id": "1vrSzlao",
-      "version_id": "wLbnmlH6",
-      "filename": "KotlinLangForge-2.19.0-k2.4.21-3.0+neoforge.jar",
+      "version_id": "N9lKQPB3",
+      "filename": "KotlinLangForge-2.20.0-k2.4.21-3.0+neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "0e86625657f4b8f7875133782983e8095b4ce012dc07afccb149fff722cc637ca32604f09fc3ba7ae6e18ede244f823955edc7c1add3ceac4eef5651a8948dd1"
+        "value": "29ecf7fef19789091ae3d3f423f389331def44c97acae9b3fca71678d559a9cb3cccc560521fe7782997429b6366502c47aa67ae6e7d1cdc921033dc754c8f48"
       },
       "mod_ids": {
-        "klf": "2.19.0-k2.4.21-3.0+neoforge"
+        "klf": "2.20.0-k2.4.21-3.0+neoforge"
       },
       "dependencies": [],
       "pw_file": "mods/kotlin-lang-forge.pw.toml"
@@ -6337,15 +6337,15 @@
       "name": "Little Big Redstone",
       "source": "modrinth",
       "project_id": "cdz2XZgU",
-      "version_id": "ZDF43Iag",
-      "filename": "little-big-redstone-1.9.13-1.21.1.jar",
+      "version_id": "zbLE0iKe",
+      "filename": "little-big-redstone-1.9.14-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "c371c1a777cff2509054ede2ccbe3822334093f1be0492e9f07e04d0c8933867b80d76983c33d05824f86bb9437cb2d4ea64e09154fd7db010b56c072234b64a"
+        "value": "0f9bb012e0715642747aa737dd828ad39ca5eea4c264043369c365665c839eb333b59609cef2ffc0108358216f08b41f75b6a0601d66f879805356b12408dd2c"
       },
       "mod_ids": {
-        "little_big_redstone": "1.9.13-1.21.1"
+        "little_big_redstone": "1.9.14-1.21.1"
       },
       "dependencies": [
         {
@@ -7099,15 +7099,15 @@
       "name": "Modern Industrialization",
       "source": "modrinth",
       "project_id": "Gov5Dboq",
-      "version_id": "xGrDqc07",
-      "filename": "Modern-Industrialization-2.5.12.jar",
+      "version_id": "MGepoMKK",
+      "filename": "Modern-Industrialization-2.5.13.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "c4816b70ab2530cd087f9aef2b97723ff6e2cdf63163c5c27c1b6ee8153d0826ae8cf413d00a4ac96f8ece2da781409cddb6d8f1f93fc88f255b10be3a6437bc"
+        "value": "0ae221fbed5a9eeb8c9ad8e97f953a2dfc7b30cce51eea7081fd88e83cf9cc40e241949ea327417d308f223e87db3f66064ddb94cd92ef7683bcb015a80aa506"
       },
       "mod_ids": {
-        "modern_industrialization": "2.5.12",
+        "modern_industrialization": "2.5.13",
         "grandpower": "3.0.0"
       },
       "dependencies": [
@@ -7398,15 +7398,15 @@
       "name": "Mystian Apiary",
       "source": "modrinth",
       "project_id": "4YKkzsCe",
-      "version_id": "M0uMLPwS",
-      "filename": "mystianapiary-neoforge-1.10.jar",
+      "version_id": "W3mKc18m",
+      "filename": "mystianapiary-neoforge-1.11.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "f8887d87b292b1cfa622ef3e1aaa18f98927ea2840f902417dca23ba50ebd27823225910c13b1c9430eb5e569f62905f3f1cf58ce3ae0b16b2224826a08496bc"
+        "value": "a01e2f2db1296188c5042389dd89f26c0d276a5d5309ead888bf4503a2b30f2a4c63a7c97588dc56843ee8f36c207281ed0b677163ddb5a2079f4816cc0673a1"
       },
       "mod_ids": {
-        "mystianapiary": "1.10"
+        "mystianapiary": "1.11"
       },
       "dependencies": [
         {
@@ -8683,15 +8683,15 @@
       "name": "Replication",
       "source": "curseforge",
       "project_id": "638351",
-      "version_id": "7662870",
-      "filename": "Replication-1.21.1-1.2.7.jar",
+      "version_id": "9629335",
+      "filename": "Replication-1.21.1-1.2.8.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "bb433ec94394e960ba26fc2e7fd5537fcb7fbe50"
+        "value": "59232e7ac1e970ee59acfcfe293e43d9e4dbbd98"
       },
       "mod_ids": {
-        "replication": "1.21.1-1.2.7"
+        "replication": "1.21.1-1.2.8"
       },
       "dependencies": [
         {
@@ -8972,15 +8972,15 @@
       "name": "SCC - Super Cool Calculator",
       "source": "curseforge",
       "project_id": "1696954",
-      "version_id": "9252241",
-      "filename": "scc-1.4.7.jar",
+      "version_id": "9563251",
+      "filename": "scc-1.6.5.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "64d5ae8f5d5fee8290d35fb83e144e2dcb373db7"
+        "value": "b0159c1cf946d9552642e1030e2a48fb59f8cb2f"
       },
       "mod_ids": {
-        "scc": "1.4.7"
+        "scc": "1.6.5"
       },
       "dependencies": [
         {
@@ -9483,15 +9483,15 @@
       "name": "Sophisticated Backpacks",
       "source": "curseforge",
       "project_id": "422301",
-      "version_id": "9524812",
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+      "version_id": "9692576",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.22.2257.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "d8858c4135c4be4b8f9db7454bb0086b40ddae9f"
+        "value": "0fcc14479c7aedce1ff4910fc10c3a735d1ffc78"
       },
       "mod_ids": {
-        "sophisticatedbackpacks": "3.26.21"
+        "sophisticatedbackpacks": "3.26.22"
       },
       "dependencies": [
         {
@@ -9511,15 +9511,15 @@
       "name": "Sophisticated Core",
       "source": "curseforge",
       "project_id": "618298",
-      "version_id": "9578162",
-      "filename": "sophisticatedcore-1.21.1-1.5.35.2473.jar",
+      "version_id": "9692552",
+      "filename": "sophisticatedcore-1.21.1-1.5.39.2489.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "a881afeeadfa9f0078dad6bc77dce3f0b422b954"
+        "value": "b279542ffbccb87891fbabc98b6df08efcd93ae4"
       },
       "mod_ids": {
-        "sophisticatedcore": "1.5.35"
+        "sophisticatedcore": "1.5.39"
       },
       "dependencies": [
         {
@@ -9539,15 +9539,15 @@
       "name": "Sophisticated Storage",
       "source": "curseforge",
       "project_id": "619320",
-      "version_id": "9578283",
-      "filename": "sophisticatedstorage-1.21.1-1.6.18.2229.jar",
+      "version_id": "9692522",
+      "filename": "sophisticatedstorage-1.21.1-1.6.20.2239.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "7b6b98482d8f1f7d1f586c601eb4eae652b63bed"
+        "value": "60d4d770b6fd54546882e10c473e8d8012387632"
       },
       "mod_ids": {
-        "sophisticatedstorage": "1.6.18"
+        "sophisticatedstorage": "1.6.20"
       },
       "dependencies": [
         {
@@ -9843,15 +9843,15 @@
       "name": "SuperMartijn642's Core Lib",
       "source": "modrinth",
       "project_id": "rOUBggPv",
-      "version_id": "sLRKmslC",
-      "filename": "supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+      "version_id": "Bmsxj5pY",
+      "filename": "supermartijn642corelib-1.1.26b-neoforge-mc1.21.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "e90a1f1a2a4b1b095b6692e82b3f1bbf3aafa5653fa80759ac4243385ac1d10605b8713107847a9d0f5e8e4da161009aa3380ae20ca8f70784abfaa85e868492"
+        "value": "58b1e2becece6a41e49b62312a452bb4b8669ba802f0036c5f724ca75a17fd511a75646bf300fc787095402a30755cbd97f4d7d29e2265bc28420a88cfc65cc4"
       },
       "mod_ids": {
-        "supermartijn642corelib": "1.1.26+a"
+        "supermartijn642corelib": "1.1.26+b"
       },
       "dependencies": [
         {
@@ -9950,21 +9950,21 @@
       "name": "Tesseract API",
       "source": "modrinth",
       "project_id": "pHNT1iyc",
-      "version_id": "6vPblZTq",
-      "filename": "tesseract-api-neoforge-1.12.20-1.21.1.jar",
+      "version_id": "oUfaQvnu",
+      "filename": "tesseract-api-neoforge-1.12.21-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "720345b77f554db86af25f395b68ca93410d840329ed597a7377207d68e870e41288812b61a270e629e2c21d17481fa565943eba9cac74698630b2fe7cb59820"
+        "value": "62bcfee0b163868994c0670627f43f648bdfd783df78673e415c13e2920f0d60845ff58de914edcbaaa01fda38041c31651f9718979cfa334d6eef5859564204"
       },
       "mod_ids": {
-        "tesseract_api": "1.12.20-1.21.1"
+        "tesseract_api": "1.12.21-1.21.1"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.228,)"
+          "range": "[21.1.238,)"
         },
         {
           "mod_id": "modern_industrialization",
@@ -10428,15 +10428,15 @@
       "name": "Waystones",
       "source": "modrinth",
       "project_id": "LOpKHB2A",
-      "version_id": "6Z6MQ6os",
-      "filename": "waystones-neoforge-1.21.1-21.1.46.jar",
+      "version_id": "sE6fMBGR",
+      "filename": "waystones-neoforge-1.21.1-21.1.47.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "ca90b58d884d4bc2b08a870484ae7ede397e71d31eaaf01ff2603ad498d584763e099c2094e57031522385339705d2c011ed4910bf36efae688e64935b49ece9"
+        "value": "24ee96445e68827b66d4e64e9670c6df4a635300afab7909a99764bf00182d1d0ea48808ae2d5041143dbad425662068f9ccdc55ad21bbdf9ed9e64f7c9e4d35"
       },
       "mod_ids": {
-        "waystones": "21.1.46"
+        "waystones": "21.1.47"
       },
       "dependencies": [
         {
@@ -10447,7 +10447,7 @@
         {
           "mod_id": "balm",
           "type": "required",
-          "range": "[21.0.39,)"
+          "range": "[21.0.59,)"
         }
       ],
       "pw_file": "mods/waystones.pw.toml"
