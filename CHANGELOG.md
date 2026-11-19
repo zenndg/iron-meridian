@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.5.0 — 19/11/2026
+
+### Mods removidos
+- **Universal Keybinds**: em toda instalação nova, abria uma tela para aplicar ou salvar um perfil de teclas. A tela não tinha como ser desligada, e o jogo fechava se o perfil fosse salvo com um nome que já existia. O mod também gravava as teclas de uma instância nova no perfil global, desfazendo as teclas das outras instâncias. Ele não tinha blocos nem itens, então nada some do mundo.
+  - As teclas passam a ficar só nas opções de cada instância. O mapa de teclas do pack continua valendo em instalações novas, e as suas teclas atuais não mudam.
+  - Se o jogo fechou na tela de perfil, basta abrir de novo depois de atualizar.
+
+O pack agora tem **371 mods**.
+
 ## 2.4.1 — 19/11/2026
 
 ### Correções
