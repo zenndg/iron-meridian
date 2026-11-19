@@ -87,12 +87,13 @@ Na dúvida entre duas casas, escolha a **mais alta**. Uma versão que avisa dema
 | Branch | Conteúdo | Quem usa |
 |---|---|---|
 | `main` | Versão publicada mais nova. **É de onde as instâncias se atualizam sozinhas** | Todos os jogadores, por padrão |
-| `release/X.0.0` | Trabalho de uma versão MAJOR, até ser testada | Só o mantenedor |
+| `develop` | Ciclo em andamento, ainda não publicado | Só o mantenedor |
+| `release/X.Y.Z` | Fechamento de uma versão: changelog e testes | Só o mantenedor |
 | `vN` (ex.: `v1`) | Última versão de uma linha MAJOR anterior. Só recebe correções críticas (PATCH) | Quem quer continuar num mundo antigo |
 
 Regras:
-- **MINOR e PATCH** podem ser feitos direto na `main` ou numa branch curta, porque não quebram mundos.
-- **MAJOR nunca é feito direto na `main`.** Vai numa `release/X.0.0` e só entra com PR, depois dos testes.
+- **Toda versão** passa por uma `release/X.Y.Z`, que sai do `develop` e só entra no `main` por PR, depois dos testes. O fluxo completo, com as branches `feature/` e `hotfix/`, está na seção *Git* do `AGENTS.md`.
+- **MAJOR** só entra no `main` depois de testada também com um mundo existente.
 - Antes de publicar um MAJOR, a versão anterior ganha uma branch `vN` congelada. O `INSTALL.md` explica como apontar a instância para ela. A linha 1 terminou na **1.1.20**, na branch `v1`.
 - `main` e as branches `vN` ficam protegidas contra force-push e exclusão.
 

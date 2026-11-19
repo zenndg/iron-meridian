@@ -119,23 +119,26 @@ O script abre a página oficial do arquivo certo, espera o download, confere o h
 
 A casa da versão (MAJOR, MINOR ou PATCH) e o uso das branches seguem a [política de versionamento](VERSIONAMENTO.md).
 
-1. **Durante o ciclo:** cada mudança sai de uma branch criada a partir do `develop` (`feat/...`, `fix/...`, `docs/...` ou `chore/...`) e entra no `develop` por PR. Nunca faça commit direto no `develop` nem no `main`. As mensagens de commit e os títulos de PR seguem o **Conventional Commits**, em português (`feat: adiciona o InventoryHUD+`). **MAJOR** fica numa `release/X.0.0` até passar nos testes. Anote tudo no `PENDENTES.txt`.
+1. **Durante o ciclo:** cada mudança começa por uma issue e sai de uma branch `feature/{issue}-{slug}` criada a partir do `develop`, que volta para ele por PR com `Closes #n`. Nunca faça commit direto no `develop` nem no `main`. As mensagens de commit e os títulos de PR seguem o **Conventional Commits**, em português (`feat: adiciona o InventoryHUD+`). Anote tudo no `PENDENTES.txt`. As regras completas estão na seção *Git* do `AGENTS.md`.
 2. **Ao fechar a versão:**
-   - escreva a seção da versão no `CHANGELOG.md` a partir do `PENDENTES.txt`, organizada por assunto, numa branch com PR para o `develop`;
-   - confira o `version` do `pack.toml`;
-   - abra um PR do `develop` para o `main` e faça o merge. Quem já instalou recebe a versão na próxima abertura do jogo;
+   - crie a `release/X.Y.Z` a partir do `develop`;
+   - nela, escreva a seção da versão no `CHANGELOG.md` a partir do `PENDENTES.txt`, organizada por assunto, e confira o `version` do `pack.toml`;
+   - teste a `release/X.Y.Z` numa instância temporária (seção 6). Uma `release/X.0.0` (MAJOR) só segue depois de passar nos testes, inclusive com um mundo existente;
+   - abra o PR da `release/X.Y.Z` para o `main`. Depois do merge, quem já instalou recebe a versão na próxima abertura do jogo;
+   - abra o PR do `main` de volta para o `develop`, para levar o CHANGELOG;
    - gere a instância de importação:
      ```bash
      scripts/build-instance-zip.sh
      ```
      O arquivo sai em `dist/IronMeridian-Prism.zip`.
-   - publique:
+   - publique, a partir do `main`:
      ```bash
      git tag -a vX.Y.Z -m "Iron Meridian X.Y.Z"
      git push origin vX.Y.Z
      gh release create vX.Y.Z --title "Iron Meridian X.Y.Z" --notes-file notas.md dist/IronMeridian-Prism.zip
      ```
-3. **Abra o próximo ciclo:** suba o `version` do `pack.toml`, rode `packwiz refresh`, zere o `PENDENTES.txt` e faça o commit numa branch `chore/...` com PR para o `develop`.
+3. **Abra o próximo ciclo** numa branch `feature/{issue}-{slug}` com PR para o `develop`: suba o `version` do `pack.toml`, rode `packwiz refresh` e zere o `PENDENTES.txt`.
+4. **Correção urgente** do que já foi publicado: uma `hotfix/{issue}-{slug}` sai do `main` e volta para o `main` e para o `develop`, cada um por PR, e fecha com uma versão PATCH.
 
 O link `releases/latest/download/IronMeridian-Prism.zip` sempre aponta para a release mais nova. Depois de um `git push`, o GitHub pode levar alguns minutos para servir os arquivos novos, por causa do cache do `raw.githubusercontent.com`.
 
