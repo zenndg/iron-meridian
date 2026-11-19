@@ -3,30 +3,30 @@ type = fancymenu_layout
 layout-meta {
 identifier = title_screen
 render_custom_elements_behind_vanilla = true
-last_edited_time = 1788800000000
+last_edited_time = 1795600000000
 is_enabled = true
 randommode = false
 randomgroup = 1
 randomonlyfirsttime = false
 layout_index = 0
-[loading_requirement_container_meta:8de382f2-e3f7-4fa7-b843-5ea41990c4c7-1788800000000] = [groups:][instances:]
+[loading_requirement_container_meta:7e167159-a7a1-4e1b-8702-370a133086d9-1795600000000] = [groups:][instances:]
 }
 
 menu_background {
-image_path = [source:local]/config/fancymenu/assets/technoverse_frontier_v7_background.png
+image_path = [source:local]/config/fancymenu/assets/iron_meridian_fundo.jpg
 slide = false
 repeat_texture = false
 parallax = false
 parallax_intensity = 0.02
 invert_parallax = false
 restart_animated_on_menu_load = false
-instance_identifier = 7d8ac813-b799-4d57-a9d2-1af7a6e36b2d-1788800000000
+instance_identifier = 0add4a9f-2ae0-4ccc-bc45-fc8748394037-1795600000000
 background_type = image
 }
 
 customization {
 action = backgroundoptions
-keepaspectratio = false
+keepaspectratio = true
 }
 
 scroll_list_customization {
