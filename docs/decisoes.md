@@ -61,3 +61,22 @@ Registro das decisões tomadas pelo desenvolvedor quando havia mais de um caminh
 - **Alternativa recusada:** atualizar na 2.3.0 com um aviso para quebrar e recolocar os botões, porque perder dados de bloco num mundo existente seria MAJOR.
 - **Por quê:** no teste, a 3.0.0 lançou `ArrayIndexOutOfBoundsException` em `LargeButtonBlockEntity.loadAdditional` ao carregar o Large Button e o Pedestal Button colocados na 2.1.1, e o jogo descartou os dados dos dois. A Antline passou.
 - **Confirma:** a decisão 6.
+
+## 10. Botões do pack num resource pack próprio
+
+- **Data:** 19/11/2026
+- **Decisão:** os botões, sliders e o logo do título vêm do resource pack **Iron Meridian UI** (`resourcepacks/Iron Meridian UI/`), ativado por padrão no `configureddefaults/options.txt`, acima do Default Dark Mode. Assim o visual chega a todas as telas que usam os botões do Minecraft, inclusive as dos mods.
+- **Alternativa recusada:** aplicar a textura só nas telas editadas pelo FancyMenu.
+- **Contexto:** a arte (fundos, emblema, nome e textura de metal) foi gerada por IA a partir de prompts do próprio pack; os sprites com medida exata saem dela por script (`scripts/gera-arte-telas.py`).
+
+## 11. Telas da primeira etapa da personalização
+
+- **Data:** 19/11/2026
+- **Decisão:** entram a tela inicial (fundo e logo), a tela de carregamento do Drippy (fundo, emblema e barra ciano), a pausa, as opções, a seleção e a criação de mundo e a lista de mods (fundo desfocado, pelo layout universal do FancyMenu) e o ícone da instância no zip de importação.
+
+## 12. Sai o fundo antigo da tela inicial
+
+- **Data:** 19/11/2026
+- **Decisão:** o `technoverse_frontier_v7_background.png` sai do pack.
+- **Alternativa recusada:** mantê-lo guardado, sem uso.
+- **Por quê:** a imagem parecia vir de outro modpack, e a licença MIT do repositório cobre só os arquivos próprios do pack.
