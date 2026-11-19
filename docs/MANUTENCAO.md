@@ -103,7 +103,7 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
 ## 7. Teclas e configurações iniciais
 
 - O **mapa de teclas** do pack fica em `configureddefaults/options.txt` (só as linhas `key_`), que é a fonte de verdade, e está documentado em `docs/TECLAS.md`. Ao adicionar um mod com teclas, confira se elas colidem com o mapa e acrescente as linhas lá e no TECLAS.
-- O `configureddefaults/` só vale para **instalações novas**. Para mudar a instância de quem já joga, edite o `options.txt` dela **e** o perfil do Universal Keybinds (`~/.config/JustKeybinds/profiles/default/keybinds.json`), com o jogo fechado.
+- O `configureddefaults/` só vale para **instalações novas**. Para mudar a instância de quem já joga, edite o `options.txt` dela com o jogo fechado.
 - Ids que começam com `gui.` (por exemplo, `gui.xaero_*`) podem ser ações **no mundo**, não de tela. Confira antes de tratar como sem colisão.
 - Configurações de mundo que o pack define, como `config/ftbchunks-world.snbt` (FTB Chunks), são sobrescritas a cada atualização. Para uma mudança só num mundo, use `saves/<mundo>/serverconfig/`.
 

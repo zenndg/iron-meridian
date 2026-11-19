@@ -80,3 +80,10 @@ Registro das decisões tomadas pelo desenvolvedor quando havia mais de um caminh
 - **Decisão:** o `technoverse_frontier_v7_background.png` sai do pack.
 - **Alternativa recusada:** mantê-lo guardado, sem uso.
 - **Por quê:** a imagem parecia vir de outro modpack, e a licença MIT do repositório cobre só os arquivos próprios do pack.
+
+## 13. Sai o Universal Keybinds
+
+- **Data:** 19/11/2026
+- **Decisão:** o Universal Keybinds sai na 2.5.0. As teclas passam a ficar só no `options.txt` de cada instância, e o mapa do pack continua chegando pelo `configureddefaults/options.txt`.
+- **Alternativa recusada:** manter o mod e explicar a tela de perfil no INSTALL.md.
+- **Por quê:** o mod (1.0.0, a única versão) abre uma tela de perfil em toda instalação nova, sem opção para desligar, e derruba o jogo quando o jogador salva um perfil com um nome que já existe (`IllegalStateException: Profile already exists`). Ele também grava as teclas de uma instância nova no perfil global, desfazendo as das outras instâncias. Nenhum mod depende dele.
