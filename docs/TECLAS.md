@@ -53,8 +53,9 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 28 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
 | 29 | **F4** | Calculadora (item sob o cursor). Fica numa tecla que não se digita: dentro das telas o SCC ignora o Alt, e o C abria a calculadora no meio de caixas de texto (Flux Networks, Logistics Network). | SCC |
 | 30 | **Alt + K** | Detalhes do último pedido | SCC |
-| 31 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
-| 32 | **Alt + M** | Mapa de chunks: reivindicar e manter carregados | FTB Chunks |
+| 31 | **Alt + L** | Travar o slot da hotbar para o clique do meio (Pick Block) | SCC |
+| 32 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
+| 33 | **Alt + M** | Mapa de chunks: reivindicar e manter carregados | FTB Chunks |
 
 As peças de armadura, os voos e os veículos dividem a mesma combinação porque você só usa um de cada vez.
 
@@ -62,26 +63,26 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 
 | # | Tecla | Ação | Mod |
 |---|---|---|---|
-| 33 | **Shift + B** | Novo waypoint | Xaero's Minimap |
-| 34 | **Shift + Y** | Configurações do minimapa | Xaero's Minimap |
-| 35 | **Shift + Z** | Ampliar o minimapa | Xaero's Minimap |
-| 36 | **Shift + M** | Ligar/desligar o ímã | Ender IO |
-| 37 | **Shift + U** | Deep Learner | Hostile Neural Networks |
-| 38 | **Shift + C** | Grade de crafting num bloco | Translocators |
-| 39 | **Shift + V** | Pegar aldeão | Easy Villagers |
-| 40 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
-| 41 | **Shift + H** | HUD da chave | Logistics Networks |
-| 42 | **Shift + K** | Editar o perfil de comandos | Command Keys |
-| 43 | **;** | Tela de aumentos | Oritech |
-| 44 | **F8** | HUD da armadura e dos itens | Mekanism |
-| 45 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
-| 46 | **F12** | Ligar/desligar o shader | Iris |
-| 47 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
-| 48 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
-| 49 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
-| 50 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
-| 51 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
-| 52 | **Shift + I** | Ligar/desligar a HUD do inventário | InventoryHUD+ |
+| 34 | **Shift + B** | Novo waypoint | Xaero's Minimap |
+| 35 | **Shift + Y** | Configurações do minimapa | Xaero's Minimap |
+| 36 | **Shift + Z** | Ampliar o minimapa | Xaero's Minimap |
+| 37 | **Shift + M** | Ligar/desligar o ímã | Ender IO |
+| 38 | **Shift + U** | Deep Learner | Hostile Neural Networks |
+| 39 | **Shift + C** | Grade de crafting num bloco | Translocators |
+| 40 | **Shift + V** | Pegar aldeão | Easy Villagers |
+| 41 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
+| 42 | **Shift + H** | HUD da chave | Logistics Networks |
+| 43 | **Shift + K** | Editar o perfil de comandos | Command Keys |
+| 44 | **;** | Tela de aumentos | Oritech |
+| 45 | **F8** | HUD da armadura e dos itens | Mekanism |
+| 46 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
+| 47 | **F12** | Ligar/desligar o shader | Iris |
+| 48 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
+| 49 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
+| 50 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
+| 51 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
+| 52 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
+| 53 | **Shift + I** | Ligar/desligar a HUD do inventário | InventoryHUD+ |
 
 ### Sem tecla, de propósito
 
@@ -92,6 +93,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Rádio do Ad Astra e a tela de chunk loaders.
 - Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
 - Configurações do SCC: a tela abre pelo botão "SCC settings" na barra do terminal do SCC, ou com F7 dentro dele.
+- Menu rápido dos módulos estelares do SCC (Stellar module quick menu): o mod já vem sem tecla.
 - Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
 - Preenchimento sequencial do Omni Upgrades: vinha no **Shift + N**, que é o Show Description do Mekanism.
 - Configuração do InventoryHUD+: vinha no **O**, que abre a tela de shaders do Iris. A tela também abre pelo botão de configuração na lista de mods.
@@ -552,6 +554,7 @@ O padrão era **I**, que é o inspecionar do Punchy!. A configuração (padrão 
 | Tecla | Ação | Onde |
 |---|---|---|
 | Alt + K | Details of the last finished order | Jogo |
+| Alt + L | Lock hotbar slot (middle-click pick) | Jogo |
 | F4 | Open calculator (item under cursor) | Jogo |
 | Alt + 2 | Open wireless terminal | Jogo |
 | Alt + G | Stellar Pocket (tap: put away, hold: pick) | Jogo |

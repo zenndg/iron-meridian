@@ -2317,7 +2317,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "fee4725ede78489aa43904e1c344f8563eac23f85efade80646d384620d8c720"
+hash = "f6b7a41311a25131c27a8655e14747850e3ff3054fc712fe489a7baa77c91ccd"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -3968,7 +3968,7 @@ metafile = true
 
 [[files]]
 file = "mods/scc-super-cool-calculator.pw.toml"
-hash = "60c41c06a2a1086073b5fce1b87e743e20c88a2ead9a93d0f4125674fbacbbfe"
+hash = "27ec41a8db837f5ec29c85b100793b8074c4b812afcb168a76f86d837114c99e"
 metafile = true
 
 [[files]]

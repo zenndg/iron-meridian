@@ -301,7 +301,7 @@ Total: **372 mods** (269 do Modrinth e 103 do CurseForge).
 | 293 | Sawmill | `sawmill-1.21-1.9.0-neoforge.jar` | [Modrinth](https://modrinth.com/mod/WRaRZdTd) |
 | 294 | Scalable Cat's Force | `ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar` | [Modrinth](https://modrinth.com/mod/zr0QMQMo) |
 | 295 | Scannable Reforged | `ScannableReforged-MC1.21.1-neoforge-1.1.2.jar` | [CurseForge](https://www.curseforge.com/projects/1565741) |
-| 296 | SCC - Super Cool Calculator | `scc-1.4.7.jar` | [CurseForge](https://www.curseforge.com/projects/1696954) |
+| 296 | SCC - Super Cool Calculator | `scc-1.6.5.jar` | [CurseForge](https://www.curseforge.com/projects/1696954) |
 | 297 | Searchables | `Searchables-neoforge-1.21.1-1.0.2.jar` | [Modrinth](https://modrinth.com/mod/fuuu3xnx) |
 | 298 | Serene Seasons | `SereneSeasons-neoforge-1.21.1-10.1.0.9.jar` | [Modrinth](https://modrinth.com/mod/e0bNACJD) |
 | 299 | Server Performance - Smooth Chunk Save | `smoothchunk-1.21-4.4.jar` | [CurseForge](https://www.curseforge.com/projects/582327) |

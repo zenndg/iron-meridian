@@ -40,6 +40,7 @@ key_pneumaticcraft.armor.options:key.keyboard.u:ALT
 key_key.scc.pocket:key.keyboard.g:ALT
 key_key.scc.settings:key.keyboard.unknown
 key_key.scc.job_details:key.keyboard.k:ALT
+key_key.scc.lock_slot:key.keyboard.l:ALT
 key_key.easy_villagers.pick_up:key.keyboard.v:SHIFT
 key_key.toolbelt.slot:key.keyboard.r:SHIFT
 key_key.logisticsnetworks.toggle_wrench_hud:key.keyboard.h:SHIFT
