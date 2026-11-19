@@ -14,6 +14,11 @@ trap 'rm -rf "$WORK"' EXIT
 INST="$WORK/Iron Meridian"
 mkdir -p "$INST/minecraft"
 cp "$ROOT/release/instance/instance.cfg" "$ROOT/release/instance/mmc-pack.json" "$INST/"
+# Ícone da instância: o Prism importa o arquivo da raiz com o nome do iconKey.
+ICON="$(sed -n 's/^iconKey=//p' "$ROOT/release/instance/instance.cfg")"
+if [ -n "$ICON" ] && [ "$ICON" != "default" ]; then
+  cp "$ROOT/release/instance/$ICON.png" "$INST/"
+fi
 curl -fsSL -o "$INST/minecraft/packwiz-installer-bootstrap.jar" "$BOOTSTRAP_URL"
 unzip -tq "$INST/minecraft/packwiz-installer-bootstrap.jar" >/dev/null
 
