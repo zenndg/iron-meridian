@@ -40,3 +40,9 @@ Registro das decisões tomadas pelo desenvolvedor quando havia mais de um caminh
 - **Decisão:** as outras 26 atualizações entram na 2.2.1, que continua PATCH. O Portal Gun fica na 2.1.1, no `scripts/update-ignore.json`, até ser testado com um mundo existente (issue #9).
 - **Alternativa recusada:** aplicar as 27 de uma vez, o que faria o ciclo virar 2.3.0.
 - **Por quê:** a 3.0.0 refaz o Large Button e o Pedestal Button e o sistema de variantes, o que pode quebrar mundos existentes.
+
+## 7. Tecla do "Lock hotbar slot" do SCC 1.6.5
+
+- **Data:** 19/11/2026
+- **Decisão:** a ação nova `key.scc.lock_slot` fica em **Alt + L**. O padrão do mod, Alt + K, colidia com os detalhes do último pedido, que já estavam nessa tecla.
+- **Alternativa recusada:** deixar a ação sem tecla.
