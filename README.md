@@ -3,7 +3,7 @@
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
 > **372 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
-[![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
+[![Última versão](https://img.shields.io/github/v/release/zenndg/iron-meridian?label=vers%C3%A3o)](https://github.com/zenndg/iron-meridian/releases/latest)
 
 **[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Comandos](docs/COMANDOS.md)** · **[Teclas](docs/TECLAS.md)** · **[Manutenção](docs/MANUTENCAO.md)** · **[Guia dos mods](docs/GUIA-DOS-MODS.md)** · **[Lista de mods](docs/MODS.md)** · **[Mods removidos](docs/MODS-REMOVIDOS.md)** · **[Versionamento](docs/VERSIONAMENTO.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
 
@@ -11,7 +11,7 @@
 
 1. No Prism, clique em **Adicionar instância → Importar** e cole o link:
    ```
-   https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
+   https://github.com/zenndg/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
 2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 372 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
