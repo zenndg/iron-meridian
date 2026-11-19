@@ -13,7 +13,7 @@ O Iron Meridian é distribuído com o [packwiz](https://packwiz.infra.link/). Vo
 1. No Prism, clique em **Adicionar instância → Importar**.
 2. Cole o link abaixo e clique em **OK**. Se quiser, troque o nome para "Iron Meridian".
    ```
-   https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
+   https://github.com/zenndg/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
    A instância já vem configurada: Minecraft 1.21.1, NeoForge 21.1.265, 10 GB de memória fixa, ajustes de Java contra travadas, o packwiz-installer-bootstrap e o comando de pré-lançamento.
 3. Abra a instância e siga o item **5** do passo a passo manual: download do SCC.
@@ -30,7 +30,7 @@ Use este caminho se preferir montar a instância à mão.
 2. **Baixe o bootstrap.** Baixe o `packwiz-installer-bootstrap.jar` em [packwiz-installer-bootstrap/releases](https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest) e coloque o arquivo na pasta **`minecraft`** da instância. No Prism, clique com o botão direito na instância → **Pasta** → entre em `minecraft`.
 3. **Configure o comando de pré-lançamento.** Clique com o botão direito na instância → **Editar → Configurações → Comandos personalizados**. Marque a opção para usar comandos personalizados e, em **Comando de pré-lançamento**, cole:
    ```
-   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/marcelofabianov/iron-meridian/main/pack.toml
+   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/zenndg/iron-meridian/main/pack.toml
    ```
 4. **Configure a memória e o Java.** Na aba **Java** das configurações da instância:
    - **Memória mínima e máxima iguais**, entre **10240** e **12288 MB**.
@@ -62,7 +62,7 @@ A **2.0 quebra mundos**: ela tira o Create, o Mystical Agriculture e outros mods
 1. **Antes de abrir o jogo,** vá em **Editar instância → Configurações → Comandos personalizados** no Prism.
 2. Troque `main` por `v1` no comando de pré-lançamento:
    ```
-   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/marcelofabianov/iron-meridian/v1/pack.toml
+   "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/zenndg/iron-meridian/v1/pack.toml
    ```
 3. Abra o jogo normalmente. A instância fica na 1.x e recebe só correções críticas.
 

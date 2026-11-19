@@ -3,7 +3,7 @@
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
 > **372 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
-[![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
+[![Última versão](https://img.shields.io/github/v/release/zenndg/iron-meridian?label=vers%C3%A3o)](https://github.com/zenndg/iron-meridian/releases/latest)
 
 **[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Comandos](docs/COMANDOS.md)** · **[Teclas](docs/TECLAS.md)** · **[Manutenção](docs/MANUTENCAO.md)** · **[Guia dos mods](docs/GUIA-DOS-MODS.md)** · **[Lista de mods](docs/MODS.md)** · **[Mods removidos](docs/MODS-REMOVIDOS.md)** · **[Versionamento](docs/VERSIONAMENTO.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
 
@@ -11,7 +11,7 @@
 
 1. No Prism, clique em **Adicionar instância → Importar** e cole o link:
    ```
-   https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
+   https://github.com/zenndg/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
 2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 372 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
@@ -133,6 +133,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 | Receitas corrigidas | `kubejs/server_scripts/iron_meridian_recipe_fixes.js`, `iron_meridian_centrifuge_tiers.js` e `kubejs/data/` | Corrige receitas que vêm quebradas nos mods: Bow Limb do Meka-Bow, Ad Astra no Modern Industrialization, alternativas do Veggies Delight e resina de Menril do Tree Tap. Devolve ao Veggies Delight o loot em baús, cria receitas para o Centrifuge Tiers (as dele exigem o AllTheCompressed) e desativa receitas sem alvo. |
 | Fornalhas e geradores de AllTheModium, Vibranium e Unobtainium escondidos | `kubejs/server_scripts/iron_meridian_recipe_fixes.js` e `kubejs/client_scripts/iron_meridian_hidden.js` | Esses materiais não existem no pack. Os itens seguem registrados nos mods, mas ficam sem receita e fora do JEI. |
 | JEI ocupando a altura da tela | `config/jei/jei-client.ini` e `config/jei/client/jei-client.ini` | `maxRows = 100` e `maxColumns = 18`. Os arquivos estão marcados como `preserve`, então o que você mudar nas opções do JEI não é desfeito pelas atualizações. |
+| Telas do Iron Meridian | `config/fancymenu/` e `resourcepacks/Iron Meridian UI/` | A tela inicial tem o fundo e o logo do pack, e a de carregamento, o emblema e uma barra ciano. As telas de pausa, opções, mundos e mods usam o fundo desfocado. Os botões de metal vêm do resource pack **Iron Meridian UI**, ativado por padrão em instalações novas. Quem já tem o jogo instalado pode ativá-lo em **Opções → Pacotes de recursos**, deixando-o no topo da lista. |
 
 ## Manutenção dos mods
 

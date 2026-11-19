@@ -47,7 +47,7 @@ const TOME_VERSION_KEY = 'iron_meridian_tome_version'
 
 const GIVEN_FLAG = 'iron_meridian_tome_given'
 const WELCOME_FLAG = 'iron_meridian_welcome_given'
-const REPO_URL = 'https://github.com/marcelofabianov/iron-meridian'
+const REPO_URL = 'https://github.com/zenndg/iron-meridian'
 
 // Página do livro de boas-vindas, em texto JSON do Minecraft
 const WELCOME_PAGES = [
@@ -59,7 +59,7 @@ const WELCOME_PAGES = [
       {
         text: 'Mais informações no GitHub', color: 'blue', underlined: true,
         clickEvent: { action: 'open_url', value: REPO_URL },
-        hoverEvent: { action: 'show_text', contents: 'github.com/marcelofabianov/iron-meridian' }
+        hoverEvent: { action: 'show_text', contents: 'github.com/zenndg/iron-meridian' }
       }
     ]
   }

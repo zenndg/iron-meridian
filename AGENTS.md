@@ -1,6 +1,6 @@
 # Iron Meridian
 
-Modpack de **tecnologia e construção** para **Minecraft 1.21.1 NeoForge**, singleplayer, sem magia. É distribuído com **packwiz** a partir de `github.com/marcelofabianov/iron-meridian`, público e com licença MIT. O repositório **não tem nenhum `.jar`**.
+Modpack de **tecnologia e construção** para **Minecraft 1.21.1 NeoForge**, singleplayer, sem magia. É distribuído com **packwiz** a partir de `github.com/zenndg/iron-meridian`, público e com licença MIT. O repositório **não tem nenhum `.jar`**.
 
 O usuário fala português. Responda, documente e escreva os commits, as issues e os PRs em português.
 

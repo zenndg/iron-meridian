@@ -123,4 +123,4 @@ Para quem quer sair da base.
 - **Ao travar numa receita**, use **R** e **U** no JEI. A calculadora do **SCC** (**F4**) mostra a árvore completa da receita.
 - **Teclas:** o **[mapa de teclas](TECLAS.md)** lista as teclas do pack, organizadas para não colidirem. O **Keybind Atlas** (K) mostra o teclado, e com o **Controlling** você busca qualquer tecla por nome ou mod.
 - **FPS com shader:** o pack já vem com as **sombras de entidades desligadas** no Complementary, o que mais pesava. Se o FPS cair, baixe também a *Shadow Distance* nas configurações do shader.
-- **Sugestões e problemas:** abra uma *issue* no [repositório](https://github.com/marcelofabianov/iron-meridian/issues).
+- **Sugestões e problemas:** abra uma *issue* no [repositório](https://github.com/zenndg/iron-meridian/issues).
