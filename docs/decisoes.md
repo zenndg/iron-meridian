@@ -53,3 +53,11 @@ Registro das decisões tomadas pelo desenvolvedor quando havia mais de um caminh
 - **Decisão:** a tecla nova do SCC (decisão 7) é uma mudança de teclas, que o `docs/VERSIONAMENTO.md` trata como MINOR. Na dúvida, vale a casa mais alta, e o ciclo fecha como **2.3.0**.
 - **Alternativa recusada:** manter 2.2.1 (PATCH), porque nenhuma tecla que o jogador já usava mudou.
 - **Muda:** a abertura do ciclo 2.2.1 (PR #7).
+
+## 9. Portal Gun continua na 2.1.1
+
+- **Data:** 19/11/2026
+- **Decisão:** o Portal Gun (Aperture Innovations) fica na 2.1.1, no `scripts/update-ignore.json`, até o autor corrigir a 3.0.0. A issue #9 continua aberta.
+- **Alternativa recusada:** atualizar na 2.3.0 com um aviso para quebrar e recolocar os botões, porque perder dados de bloco num mundo existente seria MAJOR.
+- **Por quê:** no teste, a 3.0.0 lançou `ArrayIndexOutOfBoundsException` em `LargeButtonBlockEntity.loadAdditional` ao carregar o Large Button e o Pedestal Button colocados na 2.1.1, e o jogo descartou os dados dos dois. A Antline passou.
+- **Confirma:** a decisão 6.
